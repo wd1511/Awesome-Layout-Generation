@@ -41,8 +41,8 @@ IJCAI 2022, Alibaba Group & Zhejiang University <br>
 * -->
 
 ## Reference Links
-https://github.com/huapohen/Awesome-Layout-Generation
-https://github.com/Layout-Generation/layout-generation
-https://github.com/microsoft/LayoutGeneration
-https://github.com/jdily/awesome-layout-generation
-https://github.com/JosephKJ/Awesome-Layout-Generators
+https://github.com/huapohen/Awesome-Layout-Generation <br>
+https://github.com/Layout-Generation/layout-generation <br>
+https://github.com/microsoft/LayoutGeneration <br>
+https://github.com/jdily/awesome-layout-generation <br>
+https://github.com/JosephKJ/Awesome-Layout-Generators <br>

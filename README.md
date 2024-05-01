@@ -39,3 +39,10 @@ IJCAI 2022, Alibaba Group & Zhejiang University <br>
 
 <!-- **Content-Aware Generative Modeling of Graphic Design Layouts**
 * -->
+
+## Reference Links
+https://github.com/huapohen/Awesome-Layout-Generation
+https://github.com/Layout-Generation/layout-generation
+https://github.com/microsoft/LayoutGeneration
+https://github.com/jdily/awesome-layout-generation
+https://github.com/JosephKJ/Awesome-Layout-Generators

@@ -69,7 +69,7 @@ ICCV 2019, Borealis AI & Simon Fraser University & University of British Columbi
 **LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators** <br>
 *Jianan Li, Jimei Yang, Aaron Hertzmann, Jianming Zhang, Tingfa Xu.* <br>
 ICLR 2019, Adobe & Beijing Institute of Technology <br>
-TPAMI 2020 (LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Adversarial Networks)
+TPAMI 2020 (LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Adversarial Networks) <br>
 **Content-Agnostic** [[ICLR_Paper1](https://openreview.net/pdf?id=HJxB5sRcFQ)] [[ICLR_Paper2](https://arxiv.org/abs/1901.06767)] [[TPAMI_Paper](https://ieeexplore.ieee.org/abstract/document/8948239)] [[Github1](https://github.com/JiananLi2016/LayoutGAN-Tensorflow)] [[Github2](https://github.com/billzhonggz/LayoutGAN)] [[Github3](https://github.com/Layout-Generation/layout-generation/tree/master/LayoutGAN)] <br>
 
 ## Before

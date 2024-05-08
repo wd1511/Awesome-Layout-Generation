@@ -16,52 +16,170 @@
 
 ### Content-agnostic Layout Generation
 
-Rico (ACM UIST 2017) [[Paper](http://ranjithakumar.net/resources/rico.pdf)] [[Download](http://www.interactionmining.org/rico.html#quick-downloads)] <br>
-
-PubLayNet (ICDAR 2019) [[Paper](http://arxiv.org/abs/1908.07836v1)] [[Download1](https://github.com/ibm-aur-nlp/PubLayNet)] [[Download2](https://drive.google.com/file/d/1eZMp9FiSUXixYedXhVKMQldJVvTehRMz/view)]
-
-Magazine (SIGRAPH 2019) [[Paper](https://xtqiao.com/projects/content_aware_layout/paper.pdf)] [[Github](https://github.com/creative-graphic-design/huggingface-datasets_Magazine)] [[Download1](https://portland-my.sharepoint.com/personal/xqiao6-c_my_cityu_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxqiao6%2Dc%5Fmy%5Fcityu%5Fedu%5Fhk%2FDocuments%2FWork%2FProject%2FDataset&ga=1)] [[Download2](https://huggingface.co/datasets/creative-graphic-design/Magazine)] <br>
-
-Crello Dataset (ICCV 2021) [[Paper](https://arxiv.org/pdf/2108.01249)] [[Github](https://github.com/CyberAgentAILab/canvas-vae)] [[Download](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md)] <br>
+Rico Dataset (ACM UIST 2017) [[Paper](http://ranjithakumar.net/resources/rico.pdf)] [[Download](http://www.interactionmining.org/rico.html#quick-downloads)] <br>
+PubLayNet Dataset (ICDAR 2019) [[Paper](http://arxiv.org/abs/1908.07836v1)] [[Download1](https://github.com/ibm-aur-nlp/PubLayNet)] [[Download2](https://drive.google.com/file/d/1eZMp9FiSUXixYedXhVKMQldJVvTehRMz/view)]
+Magazine Dataset (SIGRAPH 2019) [[Paper](https://xtqiao.com/projects/content_aware_layout/paper.pdf)] [[Github](https://github.com/creative-graphic-design/huggingface-datasets_Magazine)] [[Download1](https://portland-my.sharepoint.com/personal/xqiao6-c_my_cityu_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxqiao6%2Dc%5Fmy%5Fcityu%5Fedu%5Fhk%2FDocuments%2FWork%2FProject%2FDataset&ga=1)] [[Download2](https://huggingface.co/datasets/creative-graphic-design/Magazine)] <br>
+Crello Dataset (ICCV 2021) [[Paper](https://arxiv.org/abs/2108.01249)] [[Github](https://github.com/CyberAgentAILab/canvas-vae)] [[Download](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md)] <br>
+DocLayNet Dataset (KDD 2022) [[Paper](https://arxiv.org/abs/2206.01062v1)] [[Download](https://github.com/DS4SD/DocLayNet)] [[Huggingface](https://huggingface.co/datasets/ds4sd/DocLayNet)] <br>
+WebUI Dataset (CHI 2023) [[Paper](https://arxiv.org/abs/2301.13280v1)] [[Download](https://uimodeling.github.io)] <br>
+M6Doc Dataset (CVPR 2023) [[Paper](https://arxiv.org/abs/2305.08719)] [[Download](https://github.com/HCIILAB/M6Doc)] <br>
 
 ### Content-aware Layout Generation
 
 CGL Dataset v1 (IJCAI 2022) [[Paper](https://arxiv.org/abs/2205.00303)] [[Github](https://github.com/minzhouGithub/CGL-GAN)] [[Download](https://tianchi.aliyun.com/dataset/142692)] <br>
-
 CGL Dataset v2 (CIKM 2023) [[Paper](https://arxiv.org/abs/2306.09086)] [[Github](https://github.com/liuan0803/RADM?tab=readme-ov-file)] [[Download](https://github.com/liuan0803/RADM?tab=readme-ov-file)] <br>
-
 PKU PosterLayout Dataset (CVPR 2023) [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf)] [[Github](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)] [[Download1(official)](http://39.108.48.32/mipl/PosterLayout/)] [[Download2(unofficial)](https://huggingface.co/datasets/creative-graphic-design/PKU-PosterLayout)] <br>
 
 ## 2024
+
+**Graphic Design with Large Multimodal Model** <br>
+*Yutao Cheng, Zhao Zhang, Maoke Yang, Hui Nie, Chunyuan Li, Xinglong Wu, Jie Shao.* <br>
+arXiv 2024, ByteDance & UCAS <br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2404.14368)] <br>
+
+**Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models** <br>
+*Wanrong Zhu, Jennifer Healey, Ruiyi Zhang, William Yang Wang, Tong Sun.* <br>
+arXiv 2024, Adobe & UC Santa Barbara <br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2404.15271)] <br>
+
+**PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation** <br>
+*Jaejung Seol, Seojun Kim, Jaejun Yoo.* <br>
+arXiv 2024, Ulsan National Institute of Science and Technology <br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2404.00995)] [[Code](https://anonymous.4open.science/r/PosterLlama/readme.md)] <br>
+
+**LayoutFlow: Flow Matching for Layout Generation** <br>
+*Julian Jorge Andrade Guerreiro, Naoto Inoue, Kento Masui, Mayu Otani, Hideki Nakayama.* <br>
+arXiv 2024, CyberAgent & The University of Tokyo <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2403.18187)] <br>
+
+**Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation** <br>
+*Mohammad Amin Shabani, Zhaowen Wang, Difan Liu, Nanxuan Zhao, Jimei Yang, Yasutaka Furukawa.* <br>
+CVPR 2024, Adobe & Simon Fraser University <br>
+**Content-Aware** [[Paper](https://aminshabani.github.io/visual_layout_composer/pdfs/visual_layout_composer.pdf)] [[Project](https://aminshabani.github.io/visual_layout_composer/)] <br>
+
+**Desigen: A Pipeline for Controllable Design Template Generation** <br>
+*Haohan Weng, Danqing Huang, Yu Qiao, Zheng Hu, Chin-Yew Lin, Tong Zhang, C. L. Philip Chen.* <br>
+CVPR 2024, Microsoft Research Asia & South China University of Technology <br>
+[[Paper](https://arxiv.org/abs/2403.09093)] [[Github](https://github.com/whaohan/desigen)] <br>
 
 **Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation** <br>
 *Daichi Horita, Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi, Kiyoharu Aizawa.* <br>
 CVPR 2024(oral), CyberAgent & The University of Tokyo <br>
 **Content-Aware** [[Paper](https://arxiv.org/abs/2311.13602)] [[Project](https://udonda.github.io/RALF/)] [[Github](https://github.com/CyberAgentAILab/RALF)] <br>
 
+**LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models** <br>
+*Zecheng Tang, Chenfei Wu, Juntao Li, Nan Duan.* <br>
+ICLR 2024, Microsoft Research Asia & Soochow University <br>
+**Content-Agnostic** [[Paper](https://openreview.net/pdf?id=qCUWVT0Ayy)] [[Github](https://github.com/ProjectNUWA/LayoutNUWA)] <br>
+
+**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints** <br>
+*Jian Chen, Ruiyi Zhang, Yufan Zhou, Rajiv Jain, Zhiqiang Xu, Ryan Rossi, Changyou Chen.* <br>
+ICLR 2024, Adobe Research & MBZUAI & University at Buffalo <br>
+**Content-Agnostic** [[Paper](https://openreview.net/pdf?id=kJ0qp9Xdsh)] <br>
+
+**Spot the Error: Non-autoregressive Graphic Layout Generation with Wireframe Locator** <br>
+*Jieru Lin, Danqing Huang, Tiejun Zhao, Dechen Zhan, Chin-Yew Lin.* <br>
+AAAI 2024, Microsoft Research & Harbin Institute of Technology <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2401.16375)] [[Github](https://github.com/ffffatgoose/SpotError)] <br>
+
 ## 2023
 
-**PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout** <br>
-*HsiaoYuan Hsu, Xiangteng He, Yuxin Peng, Hao Kong, Qing Zhang.* <br>
-CVPR 2023, Meituan & Peking University <br>
-**Content-Aware** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf)] [[Project](http://39.108.48.32/mipl/PosterLayout/)] [[Github](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)] [[Dataset1](http://39.108.48.32/mipl/PosterLayout/)] [[Dataset2](https://huggingface.co/datasets/creative-graphic-design/PKU-PosterLayout)] <br>
+**COLE: A Hierarchical Generation Framework for Multi-Layered and Editable Graphic Design** <br>
+*Peidong Jia, Chenxuan Li, Yuhui Yuan, Zeyu Liu, Yichao Shen, Bohan Chen, Xingru Chen, Yinglin Zheng, Dong Chen, Ji Li, Xiaodong Xie, Shanghang Zhang, Baining Guo.* <br>
+arXiv 2023, Microsoft Research Asia & Peking University <br>
+[[Paper](https://arxiv.org/abs/2311.16974)] <br>
 
-**LayoutFormer++: Conditional Graphic Layout Generation via Constraint Serialization and Decoding Space Restriction** <br>
-*Zhaoyun Jiang, Jiaqi Guo, Shizhao Sun, Huayu Deng, Zhongkai Wu, Vuksan Mijovic, Zijiang James Yang, Jian-Guang Lou, Dongmei Zhang.* <br>
-CVPR 2023, Microsoft Research Asi & Xi’an Jiaotong University <br>
-**Content-Agnostic** [[Paper](http://arxiv.org/abs/2208.08037)] [[Github](https://github.com/microsoft/LayoutGeneration)] <br>
+**Dolfin: Diffusion Layout Transformers without Autoencoder** <br>
+*Yilin Wang, Zeyuan Chen, Liangjun Zhong, Zheng Ding, Zhizhou Sha, Zhuowen Tu.* <br>
+arXiv 2023, Tsinghua University & University of California, San Diego <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2310.16305)] <br>
 
 **Relation-Aware Diffusion Model for Controllable Poster Layout Generation** <br>
 *Fengheng Li, An Liu, Wei Feng, Honghe Zhu, Yaoyu Li, Zheng Zhang, Jingjing Lv, Xin Zhu, Junjie Shen, Zhangang Lin, Jingping Shao.* <br>
 CIKM 2023, JD & Nankai University <br>
 **Content-Aware** [[Paper](https://arxiv.org/abs/2306.09086)] [[Github](https://github.com/liuan0803/RADM?tab=readme-ov-file)] [[Dataset](https://github.com/liuan0803/RADM?tab=readme-ov-file)] <br>
 
+**LayoutPrompter: Awaken the Design Ability of Large Language Models**
+*Jiawei Lin, Jiaqi Guo, Shizhao Sun, Zijiang James Yang, Jian-Guang Lou, Dongmei Zhang.* <br>
+NeurIPS 2023, Microsoft Research Asia & Shanghai Jiao Tong University <br>
+**LLM-based** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/88a129e44f25a571ae8b838057c46855-Paper-Conference.pdf)] [[Github](https://github.com/microsoft/LayoutGeneration)] <br>
+
+**LayoutGPT: Compositional Visual Planning and Generation with Large Language Models** <br>
+*Weixi Feng, Wanrong Zhu, Tsu-jui Fu, Varun Jampani, Arjun Akula, Xuehai He, Sugato Basu, Xin Eric Wang, William Yang Wang.* <br>
+NeurIPS 2023, Google & UC Santa Barbara <br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2305.15393)] [[Project](https://layoutgpt.github.io)] [[Github](https://github.com/weixi-feng/LayoutGPT)] <br>
+
+**DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer** <br>
+*Elad Levi, Eli Brosh, Mykola Mykhailych, Meir Perez.* <br>
+ICCV 2023, Wix.com <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2303.03755)] [[Project](https://wix-incubator.github.io/DLT/)] [[Github](https://github.com/wix-incubator/DLT)] <br>
+
+**LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models** <br>
+*Junyi Zhang, Jiaqi Guo, Shizhao Sun, Jian-Guang Lou, Dongmei Zhang.* <br>
+ICCV 2023, Microsoft Research Asia & Shanghai Jiao Tong University <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2303.11589)] [[Github](https://github.com/microsoft/LayoutGeneration)] <br>
+
+**A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions** <br>
+*Jiawei Lin, Jiaqi Guo, Shizhao Sun, Weijiang Xu, Ting Liu.* <br>
+ICCV 2023, Microsoft Research Asia & Shanghai Jiao Tong University <br>
+**Content-Agnostic** [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lin_A_Parse-Then-Place_Approach_for_Generating_Graphic_Layouts_from_Textual_Descriptions_ICCV_2023_paper.pdf)] [[Github](https://github.com/microsoft/LayoutGeneration)] <br>
+
+**Diffusion-based Document Layout Generation** <br>
+*Liu He, Yijuan Lu, John Corring, Dinei Florencio, Cha Zhang.* <br>
+ICDAR 2023, Microsoft Cloud and AI & Purdue University <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2303.10787)] <br>
+
+**PLay: Parametrically Conditioned Layout Generation using Latent Diffusion**
+*Chin-Yi Cheng, Forrest Huang, Gang Li, Yang Li.* <br>
+ICML 2023, Google Research <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2301.11529v2)] <br>
+
+**PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout** <br>
+*HsiaoYuan Hsu, Xiangteng He, Yuxin Peng, Hao Kong, Qing Zhang.* <br>
+CVPR 2023, Meituan & Peking University <br>
+**Content-Aware** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf)] [[Project](http://39.108.48.32/mipl/PosterLayout/)] [[Github](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)] [[Dataset1](http://39.108.48.32/mipl/PosterLayout/)] [[Dataset2](https://huggingface.co/datasets/creative-graphic-design/PKU-PosterLayout)] <br>
+
+**LayoutDM: Transformer-based diffusion model for layout generation** <br>
+*Shang Chai, Liansheng Zhuang, Fengying Yan.* <br>
+CVPR 2023, University of Science and Technology of China & Tianjin University <br>
+**Content-Agnostic** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chai_LayoutDM_Transformer-Based_Diffusion_Model_for_Layout_Generation_CVPR_2023_paper.pdf)] <br>
+
+**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation** <br>
+*Naoto Inoue, Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.* <br>
+CVPR 2023, CyberAgent & Waseda University <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2303.08137)] [[Project](https://cyberagentailab.github.io/layout-dm)] [[Github](https://github.com/CyberAgentAILab/layout-dm)] <br>
+
+**LayoutFormer++: Conditional Graphic Layout Generation via Constraint Serialization and Decoding Space Restriction** <br>
+*Zhaoyun Jiang, Jiaqi Guo, Shizhao Sun, Huayu Deng, Zhongkai Wu, Vuksan Mijovic, Zijiang James Yang, Jian-Guang Lou, Dongmei Zhang.* <br>
+CVPR 2023, Microsoft Research Asi & Xi’an Jiaotong University <br>
+**Content-Agnostic** [[Paper](http://arxiv.org/abs/2208.08037)] [[Github](https://github.com/microsoft/LayoutGeneration)] <br>
+
+**Towards Flexible Multi-modal Document Models** <br>
+*Naoto Inoue, Kotaro Kikuchi, Edgar Simo-Serra, Mayu Otani, Kota Yamaguchi.* <br>
+CVPR 2023, CyberAgent & Waseda University <br>
+**Content-Agnostic** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Inoue_Towards_Flexible_Multi-Modal_Document_Models_CVPR_2023_paper.pdf)] [[Github](https://github.com/CyberAgentAILab/flex-dm)] <br>
+
+**Unifying Layout Generation with a Decoupled Diffusion Model** <br>
+*Mude Hui, Zhizheng Zhang, Xiaoyi Zhang, Wenxuan Xie, Yuwang Wang, Yan Lu.* <br>
+CVPR 2023, Microsoft Research Asi & Xi’an Jiaotong University <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2303.05049)] <br>
+
+**Layout Generation as Intermediate Action Sequence Prediction** <br>
+*Huiting Yang, Danqing Huang, Chin-Yew Lin, Shengfeng He.* <br>
+AAAI 2023, Microsoft Research Asia & South China University of Technology <br>
+**Content-Agnostic** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/26277/26049)] [[Github](https://github.com/BERYLSHEEP/LayoutActionProject)] <br>
+
+**Machine Learning Model to Evaluate the Appropriateness of Layout for Automatic Generation of Graphic Design Works** <br>
+*Kohei Ishiyama, Taketoshi Ushiama.* <br>
+IMCOM 2023, Kyushu University <br>
+**Content-Agnostic** [[Paper](https://ieeexplore.ieee.org/abstract/document/10035646)] <br>
+
 ## 2022
 
-**Coarse-to-Fine Generative Modeling for Graphic Layouts** <br>
-*Zhaoyun Jiang, Shizhao Sun, Jihua Zhu, Jian-Guang Lou, Dongmei Zhang.* <br>
-AAAI 2022, Microsoft Research Asia & Xi’an Jiaotong University <br>
-**Content-Agnostic** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/19994/19753)] [[Github](https://github.com/microsoft/LayoutGeneration)] <br>
+**LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer** <br>
+*Ning Yu, Chia-Chih Chen, Zeyuan Chen, Rui Meng, Gang Wu, Paul Josel, Juan Carlos Niebles, Caiming Xiong, Ran Xu.* <br>
+arXiv 2022, Salesforce Research <br>
+[[Paper](https://arxiv.org/abs/2212.09877)] <br>
 
 **Geometry Aligned Variational Transformer for Image-conditioned Layout Generation** <br>
 *Yunning Cao, Ye Ma, Min Zhou, Chuanbin Liu, Hongtao Xie, Tiezheng Ge, Yuning Jiang.* <br>
@@ -77,6 +195,11 @@ ECCV 2022, Google & Carnegie Mellon University<br>
 *Min Zhou, Chenchen Xu, Ye Ma, Tiezheng Ge, Yuning Jiang, Weiwei Xu.* <br>
 IJCAI 2022, Alibaba Group & Zhejiang University <br>
 **Content-Aware** [[Paper](https://arxiv.org/abs/2205.00303)] [[Project](https://tianchi.aliyun.com/dataset/142692)] [[Github](https://github.com/minzhouGithub/CGL-GAN)] [[Dataset](https://tianchi.aliyun.com/dataset/142692)] <br>
+
+**Coarse-to-Fine Generative Modeling for Graphic Layouts** <br>
+*Zhaoyun Jiang, Shizhao Sun, Jihua Zhu, Jian-Guang Lou, Dongmei Zhang.* <br>
+AAAI 2022, Microsoft Research Asia & Xi’an Jiaotong University <br>
+**Content-Agnostic** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/19994/19753)] [[Github](https://github.com/microsoft/LayoutGeneration)] <br>
 
 **Aesthetics++: Refining graphic designs by exploring design principles and human preference** <br>
 *Wenyuan Kong, Zhaoyun Jiang, Shizhao Sun, Zhuoning Guo, Weiwei Cui, Ting Liu, Jian-Guang Lou, and Dongmei Zhang.* <br>
@@ -98,12 +221,12 @@ IUI 2021, RWTH Aachen University <br>
 **LayoutTransformer: Layout Generation and Completion with Self-attention** <br>
 *Kamal Gupta, Justin Lazarow, Alessandro Achille, Larry Davis, Vijay Mahadevan, Abhinav Shrivastava.* <br>
 ICCV 2021, Amazon & University of Maryland <br>
-**Content-Agnostic** [[Paper](https://arxiv.org/pdf/2006.14615)] [[Github](https://github.com/kampta/DeepLayout)] <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2006.14615)] [[Github](https://github.com/kampta/DeepLayout)] <br>
 
 **CanvasVAE: Learning to Generate Vector Graphic Documents** <br>
 *Kota Yamaguchi.* <br>
 ICCV 2021, CyberAgent <br>
-**Content-Agnostic** [[Paper](https://arxiv.org/pdf/2108.01249)] [[Github](https://github.com/CyberAgentAILab/canvas-vae)] [[Dataset](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md)] <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2108.01249)] [[Github](https://github.com/CyberAgentAILab/canvas-vae)] [[Dataset](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md)] <br>
 
 **LayoutTransformer: Scene Layout Generation with Conceptual and Spatial Diversity** <br>
 *Cheng-Fu Yang, Wan-Cyuan Fan, Fu-En Yang, Yu-Chiang Frank Wang.* <br>

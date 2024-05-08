@@ -16,19 +16,19 @@
 
 ### Content-agnostic Layout Generation
 
-Rico Dataset (ACM UIST 2017) [[Paper](http://ranjithakumar.net/resources/rico.pdf)] [[Download](http://www.interactionmining.org/rico.html#quick-downloads)] <br>
-PubLayNet Dataset (ICDAR 2019) [[Paper](http://arxiv.org/abs/1908.07836v1)] [[Download1](https://github.com/ibm-aur-nlp/PubLayNet)] [[Download2](https://drive.google.com/file/d/1eZMp9FiSUXixYedXhVKMQldJVvTehRMz/view)]
-Magazine Dataset (SIGRAPH 2019) [[Paper](https://xtqiao.com/projects/content_aware_layout/paper.pdf)] [[Github](https://github.com/creative-graphic-design/huggingface-datasets_Magazine)] [[Download1](https://portland-my.sharepoint.com/personal/xqiao6-c_my_cityu_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxqiao6%2Dc%5Fmy%5Fcityu%5Fedu%5Fhk%2FDocuments%2FWork%2FProject%2FDataset&ga=1)] [[Download2](https://huggingface.co/datasets/creative-graphic-design/Magazine)] <br>
-Crello Dataset (ICCV 2021) [[Paper](https://arxiv.org/abs/2108.01249)] [[Github](https://github.com/CyberAgentAILab/canvas-vae)] [[Download](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md)] <br>
-DocLayNet Dataset (KDD 2022) [[Paper](https://arxiv.org/abs/2206.01062v1)] [[Download](https://github.com/DS4SD/DocLayNet)] [[Huggingface](https://huggingface.co/datasets/ds4sd/DocLayNet)] <br>
-WebUI Dataset (CHI 2023) [[Paper](https://arxiv.org/abs/2301.13280v1)] [[Download](https://uimodeling.github.io)] <br>
-M6Doc Dataset (CVPR 2023) [[Paper](https://arxiv.org/abs/2305.08719)] [[Download](https://github.com/HCIILAB/M6Doc)] <br>
+- Rico Dataset (ACM UIST 2017) [[Paper](http://ranjithakumar.net/resources/rico.pdf)] [[Download](http://www.interactionmining.org/rico.html#quick-downloads)] <br>
+- PubLayNet Dataset (ICDAR 2019) [[Paper](http://arxiv.org/abs/1908.07836v1)] [[Download1](https://github.com/ibm-aur-nlp/PubLayNet)] [[Download2](https://drive.google.com/file/d/1eZMp9FiSUXixYedXhVKMQldJVvTehRMz/view)] <br>
+- Magazine Dataset (SIGRAPH 2019) [[Paper](https://xtqiao.com/projects/content_aware_layout/paper.pdf)] [[Github](https://github.com/creative-graphic-design/huggingface-datasets_Magazine)] [[Download1](https://portland-my.sharepoint.com/personal/xqiao6-c_my_cityu_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxqiao6%2Dc%5Fmy%5Fcityu%5Fedu%5Fhk%2FDocuments%2FWork%2FProject%2FDataset&ga=1)] [[Download2](https://huggingface.co/datasets/creative-graphic-design/Magazine)] <br>
+- Crello Dataset (ICCV 2021) [[Paper](https://arxiv.org/abs/2108.01249)] [[Github](https://github.com/CyberAgentAILab/canvas-vae)] [[Download](https://github.com/CyberAgentAILab/canvas-vae/blob/main/docs/crello-dataset.md)] <br>
+- DocLayNet Dataset (KDD 2022) [[Paper](https://arxiv.org/abs/2206.01062v1)] [[Download](https://github.com/DS4SD/DocLayNet)] [[Huggingface](https://huggingface.co/datasets/ds4sd/DocLayNet)] <br>
+- WebUI Dataset (CHI 2023) [[Paper](https://arxiv.org/abs/2301.13280v1)] [[Download](https://uimodeling.github.io)] <br>
+- M6Doc Dataset (CVPR 2023) [[Paper](https://arxiv.org/abs/2305.08719)] [[Download](https://github.com/HCIILAB/M6Doc)] <br>
 
 ### Content-aware Layout Generation
 
-CGL Dataset v1 (IJCAI 2022) [[Paper](https://arxiv.org/abs/2205.00303)] [[Github](https://github.com/minzhouGithub/CGL-GAN)] [[Download](https://tianchi.aliyun.com/dataset/142692)] <br>
-CGL Dataset v2 (CIKM 2023) [[Paper](https://arxiv.org/abs/2306.09086)] [[Github](https://github.com/liuan0803/RADM?tab=readme-ov-file)] [[Download](https://github.com/liuan0803/RADM?tab=readme-ov-file)] <br>
-PKU PosterLayout Dataset (CVPR 2023) [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf)] [[Github](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)] [[Download1(official)](http://39.108.48.32/mipl/PosterLayout/)] [[Download2(unofficial)](https://huggingface.co/datasets/creative-graphic-design/PKU-PosterLayout)] <br>
+- CGL Dataset v1 (IJCAI 2022) [[Paper](https://arxiv.org/abs/2205.00303)] [[Github](https://github.com/minzhouGithub/CGL-GAN)] [[Download](https://tianchi.aliyun.com/dataset/142692)] <br>
+- CGL Dataset v2 (CIKM 2023) [[Paper](https://arxiv.org/abs/2306.09086)] [[Github](https://github.com/liuan0803/RADM?tab=readme-ov-file)] [[Download](https://github.com/liuan0803/RADM?tab=readme-ov-file)] <br>
+- PKU PosterLayout Dataset (CVPR 2023) [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf)] [[Github](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)] [[Download1(official)](http://39.108.48.32/mipl/PosterLayout/)] [[Download2(unofficial)](https://huggingface.co/datasets/creative-graphic-design/PKU-PosterLayout)] <br>
 
 ## 2024
 

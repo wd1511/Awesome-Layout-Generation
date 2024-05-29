@@ -32,20 +32,35 @@
 
 ## 2024
 
-**Graphic Design with Large Multimodal Model** <br>
-*Yutao Cheng, Zhao Zhang, Maoke Yang, Hui Nie, Chunyuan Li, Xinglong Wu, Jie Shao.* <br>
-arXiv 2024, ByteDance & UCAS <br>
-**LLM-based** [[Paper](https://arxiv.org/abs/2404.14368)] <br>
+**CoLay: Controllable Layout Generation through Multi-conditional Latent Diffusion** <br>
+*Chin-Yi Cheng, Ruiqi Gao, Forrest Huang, Yang Li.* <br>
+arXiv 2024, Google Research <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2405.13045)] <br>
+
+**Leveraging Human Revisions for Improving Text-to-Layout Models** <br>
+*Amber Xie, Chin-Yi Cheng, Forrest Huang, Yang Li.* <br>
+arXiv 2024, Google Research <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2405.13026)] <br>
 
 **Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models** <br>
 *Wanrong Zhu, Jennifer Healey, Ruiyi Zhang, William Yang Wang, Tong Sun.* <br>
 arXiv 2024, Adobe & UC Santa Barbara <br>
 **LLM-based** [[Paper](https://arxiv.org/abs/2404.15271)] <br>
 
+**Graphic Design with Large Multimodal Model** <br>
+*Yutao Cheng, Zhao Zhang, Maoke Yang, Hui Nie, Chunyuan Li, Xinglong Wu, Jie Shao.* <br>
+arXiv 2024, ByteDance & UCAS <br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2404.14368)] <br>
+
 **PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation** <br>
 *Jaejung Seol, Seojun Kim, Jaejun Yoo.* <br>
 arXiv 2024, Ulsan National Institute of Science and Technology <br>
 **LLM-based** [[Paper](https://arxiv.org/abs/2404.00995)] [[Code](https://anonymous.4open.science/r/PosterLlama/readme.md)] <br>
+
+**Constrained Layout Generation with Factor Graphs** <br>
+*Mohammed Haroon Dupty, Yanfei Dong, Sicong Leng, Guoji Fu, Yong Liang Goh, Wei Lu, Wee Sun Lee.* <br>
+CVPR 2024, PayPal & National University of Singapore <br>
+[[Paper](https://arxiv.org/abs/2404.00385)] <br>
 
 **LayoutFlow: Flow Matching for Layout Generation** <br>
 *Julian Jorge Andrade Guerreiro, Naoto Inoue, Kento Masui, Mayu Otani, Hideki Nakayama.* <br>
@@ -81,6 +96,7 @@ ICLR 2024, Adobe Research & MBZUAI & University at Buffalo <br>
 *Jieru Lin, Danqing Huang, Tiejun Zhao, Dechen Zhan, Chin-Yew Lin.* <br>
 AAAI 2024, Microsoft Research & Harbin Institute of Technology <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2401.16375)] [[Github](https://github.com/ffffatgoose/SpotError)] <br>
+
 
 ## 2023
 

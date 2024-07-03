@@ -32,6 +32,11 @@
 
 ## 2024
 
+**Predicting Visual Attention in Graphic Design Documents** <br>
+*Souradeep Chakraborty, Zijun Wei, Conor Kelton, Seoyoung Ahn, Aruna Balasubramanian, Gregory J. Zelinsky, Dimitris Samaras.* <br>
+arXiv 2024, Stony Brook University <br>
+[[Paper](https://arxiv.org/pdf/2407.02439)] <br>
+
 **CoLay: Controllable Layout Generation through Multi-conditional Latent Diffusion** <br>
 *Chin-Yi Cheng, Ruiqi Gao, Forrest Huang, Yang Li.* <br>
 arXiv 2024, Google Research <br>
@@ -50,7 +55,7 @@ arXiv 2024, Adobe & UC Santa Barbara <br>
 **Graphic Design with Large Multimodal Model** <br>
 *Yutao Cheng, Zhao Zhang, Maoke Yang, Hui Nie, Chunyuan Li, Xinglong Wu, Jie Shao.* <br>
 arXiv 2024, ByteDance & UCAS <br>
-**LLM-based** [[Paper](https://arxiv.org/abs/2404.14368)] <br>
+**LLM-based** **HLG** [[Paper](https://arxiv.org/abs/2404.14368)] <br>
 
 **PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation** <br>
 *Jaejung Seol, Seojun Kim, Jaejun Yoo.* <br>

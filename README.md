@@ -32,6 +32,11 @@
 
 ## 2024
 
+**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models** <br>
+*Jian Ma, Yonglin Deng, Chen Chen, Haonan Lu, Zhenyu Yang.* <br>
+arXiv 2024, OPPO AI Center & CUHK Shenzhen <br>
+[[Paper](https://arxiv.org/abs/2407.02252)] <br>
+
 **Predicting Visual Attention in Graphic Design Documents** <br>
 *Souradeep Chakraborty, Zijun Wei, Conor Kelton, Seoyoung Ahn, Aruna Balasubramanian, Gregory J. Zelinsky, Dimitris Samaras.* <br>
 arXiv 2024, Stony Brook University <br>

@@ -42,6 +42,16 @@ arXiv 2024, OPPO AI Center & CUHK Shenzhen <br>
 arXiv 2024, Stony Brook University <br>
 [[Paper](https://arxiv.org/pdf/2407.02439)] <br>
 
+**Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering** <br>
+*Zeyu Liu, Weicong Liang, Yiming Zhao, Bohan Chen, Lin Liang, Lijuan Wang, Ji Li, Yuhui Yuan.* <br>
+arXiv 2024, Microsoft <br>
+[[Paper](https://arxiv.org/abs/2406.10208)] <br>
+
+**PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM** <br>
+*Tao Yang, Yingmin Luo, Zhongang Qi, Yang Wu, Ying Shan, Chang Wen Chen.* <br>
+arXiv 2024, Tencent PCG <br>
+**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2406.02884)] <br>
+
 **CoLay: Controllable Layout Generation through Multi-conditional Latent Diffusion** <br>
 *Chin-Yi Cheng, Ruiqi Gao, Forrest Huang, Yang Li.* <br>
 arXiv 2024, Google Research <br>
@@ -76,6 +86,11 @@ CVPR 2024, PayPal & National University of Singapore <br>
 *Julian Jorge Andrade Guerreiro, Naoto Inoue, Kento Masui, Mayu Otani, Hideki Nakayama.* <br>
 arXiv 2024, CyberAgent & The University of Tokyo <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2403.18187)] <br>
+
+**Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering** <br>
+*Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan.* <br>
+arXiv 2024, Microsoft Research Asia & Tsinghua University <br>
+[[Paper](https://arxiv.org/abs/2403.09622)] <br>
 
 **Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation** <br>
 *Mohammad Amin Shabani, Zhaowen Wang, Difan Liu, Nanxuan Zhao, Jimei Yang, Yasutaka Furukawa.* <br>

@@ -35,7 +35,7 @@
 **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models** <br>
 *Jian Ma, Yonglin Deng, Chen Chen, Haonan Lu, Zhenyu Yang.* <br>
 arXiv 2024, OPPO AI Center & CUHK Shenzhen <br>
-[[Paper](https://arxiv.org/abs/2407.02252)] <br>
+[[Paper](https://arxiv.org/abs/2407.02252)] [[Github](https://github.com/OPPO-Mente-Lab/GlyphDraw2)]<br>
 
 **Predicting Visual Attention in Graphic Design Documents** <br>
 *Souradeep Chakraborty, Zijun Wei, Conor Kelton, Seoyoung Ahn, Aruna Balasubramanian, Gregory J. Zelinsky, Dimitris Samaras.* <br>
@@ -45,12 +45,17 @@ arXiv 2024, Stony Brook University <br>
 **Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering** <br>
 *Zeyu Liu, Weicong Liang, Yiming Zhao, Bohan Chen, Lin Liang, Lijuan Wang, Ji Li, Yuhui Yuan.* <br>
 arXiv 2024, Microsoft <br>
-[[Paper](https://arxiv.org/abs/2406.10208)] <br>
+[[Paper](https://arxiv.org/abs/2406.10208)] [[Project](https://glyph-byt5-v2.github.io)] [[Github](https://github.com/AIGText/Glyph-ByT5)]<br>
+
+**OpenCOLE: Towards Reproducible Automatic Graphic Design Generation** <br>
+*Naoto Inoue, Kento Masui, Wataru Shimoda, Kota Yamaguchi.* <br>
+CVPRW 2024, CyberAgent <br>
+[[Paper](https://arxiv.org/abs/2406.08232)] [[Github](https://github.com/CyberAgentAILab/OpenCOLE)]<br>
 
 **PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM** <br>
 *Tao Yang, Yingmin Luo, Zhongang Qi, Yang Wu, Ying Shan, Chang Wen Chen.* <br>
 arXiv 2024, Tencent PCG <br>
-**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2406.02884)] <br>
+**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2406.02884)] [[Project](https://huggingface.co/spaces/posterllava/PosterLLaVA)] [[Github](https://github.com/posterllava/PosterLLaVA)] <br>
 
 **CoLay: Controllable Layout Generation through Multi-conditional Latent Diffusion** <br>
 *Chin-Yi Cheng, Ruiqi Gao, Forrest Huang, Yang Li.* <br>
@@ -75,7 +80,7 @@ arXiv 2024, ByteDance & UCAS <br>
 **PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation** <br>
 *Jaejung Seol, Seojun Kim, Jaejun Yoo.* <br>
 arXiv 2024, Ulsan National Institute of Science and Technology <br>
-**LLM-based** [[Paper](https://arxiv.org/abs/2404.00995)] [[Code](https://anonymous.4open.science/r/PosterLlama/readme.md)] <br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2404.00995)] [[Github](https://github.com/jaepoong/PosterLlama)] [[Github2](https://anonymous.4open.science/r/PosterLlama/readme.md)]<br>
 
 **Constrained Layout Generation with Factor Graphs** <br>
 *Mohammed Haroon Dupty, Yanfei Dong, Sicong Leng, Guoji Fu, Yong Liang Goh, Wei Lu, Wee Sun Lee.* <br>
@@ -84,13 +89,13 @@ CVPR 2024, PayPal & National University of Singapore <br>
 
 **LayoutFlow: Flow Matching for Layout Generation** <br>
 *Julian Jorge Andrade Guerreiro, Naoto Inoue, Kento Masui, Mayu Otani, Hideki Nakayama.* <br>
-arXiv 2024, CyberAgent & The University of Tokyo <br>
-**Content-Agnostic** [[Paper](https://arxiv.org/abs/2403.18187)] <br>
+ECCV 2024, CyberAgent & The University of Tokyo <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2403.18187)] [[Project](https://julianguerreiro.github.io/layoutflow/)] [[Github](https://github.com/JulianGuerreiro/LayoutFlow)]<br>
 
 **Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering** <br>
 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan.* <br>
 arXiv 2024, Microsoft Research Asia & Tsinghua University <br>
-[[Paper](https://arxiv.org/abs/2403.09622)] <br>
+[[Paper](https://arxiv.org/abs/2403.09622)] [[Project](https://glyph-byt5.github.io)] [[Github](https://github.com/AIGText/Glyph-ByT5)]<br>
 
 **Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation** <br>
 *Mohammad Amin Shabani, Zhaowen Wang, Difan Liu, Nanxuan Zhao, Jimei Yang, Yasutaka Furukawa.* <br>

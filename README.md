@@ -7,8 +7,7 @@
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
-- [2020](#2020)
-- [2019](#2019)
+- [2019-2020](#2019-2020)
 - [Before](#Before)
 - [Reference](#Reference)
 
@@ -80,7 +79,7 @@ arXiv 2024, ByteDance & UCAS <br>
 **PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation** <br>
 *Jaejung Seol, Seojun Kim, Jaejun Yoo.* <br>
 arXiv 2024, Ulsan National Institute of Science and Technology <br>
-**LLM-based** [[Paper](https://arxiv.org/abs/2404.00995)] [[Github](https://github.com/jaepoong/PosterLlama)] [[Github2](https://anonymous.4open.science/r/PosterLlama/readme.md)]<br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2404.00995)] [[Github-1](https://github.com/jaepoong/PosterLlama)] [[Github-2](https://anonymous.4open.science/r/PosterLlama/readme.md)]<br>
 
 **Constrained Layout Generation with Factor Graphs** <br>
 *Mohammed Haroon Dupty, Yanfei Dong, Sicong Leng, Guoji Fu, Yong Liang Goh, Wei Lu, Wee Sun Lee.* <br>
@@ -289,7 +288,7 @@ CVPR 2021, Google & ETH <br>
 TVCG 2021, Adobe & Beijing Institute of Technology <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2009.05284)] <br>
 
-## 2020
+## 2019-2020
 
 **READ: Recursive Autoencoders for Document Layout Generation** <br>
 *Akshay Gadi Patil, Omri Ben-Eliezer, Or Perel, Hadar Averbuch-Elor.* <br>
@@ -306,8 +305,6 @@ ECCV 2020, Google Research & University of California, Merced <br>
 VIS 2020, Microsoft Research Asia <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2008.01177)] [[Github](https://github.com/microsoft/LayoutGeneration)] <br>
 
-## 2019
-
 **Content-Aware Generative Modeling of Graphic Design Layouts** <br>
 *Xinru Zheng, Xiaotian Qiao, Ying Cao, Rynson W.H. Lau.* <br>
 ACM TOG 2019 / SIGGRAPH 2019, City University of Hong Kong <br>
@@ -322,7 +319,7 @@ ICCV 2019, Borealis AI & Simon Fraser University & University of British Columbi
 *Jianan Li, Jimei Yang, Aaron Hertzmann, Jianming Zhang, Tingfa Xu.* <br>
 ICLR 2019, Adobe & Beijing Institute of Technology <br>
 TPAMI 2020 (LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Adversarial Networks) <br>
-**Content-Agnostic** [[ICLR_Paper1](https://openreview.net/pdf?id=HJxB5sRcFQ)] [[ICLR_Paper2](https://arxiv.org/abs/1901.06767)] [[TPAMI_Paper](https://ieeexplore.ieee.org/abstract/document/8948239)] [[Github1](https://github.com/JiananLi2016/LayoutGAN-Tensorflow)] [[Github2](https://github.com/billzhonggz/LayoutGAN)] [[Github3](https://github.com/Layout-Generation/layout-generation/tree/master/LayoutGAN)] <br>
+**Content-Agnostic** [[ICLR_Paper1](https://openreview.net/pdf?id=HJxB5sRcFQ)] [[ICLR_Paper2](https://arxiv.org/abs/1901.06767)] [[TPAMI_Paper](https://ieeexplore.ieee.org/abstract/document/8948239)] [[Github-1](https://github.com/JiananLi2016/LayoutGAN-Tensorflow)] [[Github-2](https://github.com/billzhonggz/LayoutGAN)] [[Github-3](https://github.com/Layout-Generation/layout-generation/tree/master/LayoutGAN)] <br>
 
 ## Before
 

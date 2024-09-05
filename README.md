@@ -74,7 +74,8 @@ arXiv 2024, Adobe & UC Santa Barbara <br>
 **Graphic Design with Large Multimodal Model** <br>
 *Yutao Cheng, Zhao Zhang, Maoke Yang, Hui Nie, Chunyuan Li, Xinglong Wu, Jie Shao.* <br>
 arXiv 2024, ByteDance & UCAS <br>
-**LLM-based** **HLG** [[Paper](https://arxiv.org/abs/2404.14368)] <br>
+**LLM-based** **HLG** [[Paper](https://arxiv.org/abs/2404.14368)] 
+[[Github](https://github.com/graphic-design-ai/graphist)] <br>
 
 **PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation** <br>
 *Jaejung Seol, Seojun Kim, Jaejun Yoo.* <br>
@@ -119,7 +120,8 @@ ICLR 2024, Microsoft Research Asia & Soochow University <br>
 **Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints** <br>
 *Jian Chen, Ruiyi Zhang, Yufan Zhou, Rajiv Jain, Zhiqiang Xu, Ryan Rossi, Changyou Chen.* <br>
 ICLR 2024, Adobe Research & MBZUAI & University at Buffalo <br>
-**Content-Agnostic** [[Paper](https://openreview.net/pdf?id=kJ0qp9Xdsh)] <br>
+**Content-Agnostic** [[Paper](https://openreview.net/pdf?id=kJ0qp9Xdsh)]
+[[Github](https://github.com/puar-playground/lace)] <br>
 
 **Spot the Error: Non-autoregressive Graphic Layout Generation with Wireframe Locator** <br>
 *Jieru Lin, Danqing Huang, Tiejun Zhao, Dechen Zhan, Chin-Yew Lin.* <br>

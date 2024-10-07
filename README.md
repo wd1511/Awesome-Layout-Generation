@@ -22,6 +22,7 @@
 - DocLayNet Dataset (KDD 2022) [[Paper](https://arxiv.org/abs/2206.01062v1)] [[Download](https://github.com/DS4SD/DocLayNet)] [[Huggingface](https://huggingface.co/datasets/ds4sd/DocLayNet)] <br>
 - WebUI Dataset (CHI 2023) [[Paper](https://arxiv.org/abs/2301.13280v1)] [[Download](https://uimodeling.github.io)] <br>
 - M6Doc Dataset (CVPR 2023) [[Paper](https://arxiv.org/abs/2305.08719)] [[Download](https://github.com/HCIILAB/M6Doc)] <br>
+- SciPostLayout (BMVC 2024) [[Paper](https://arxiv.org/abs/2407.19787)] [[Download](https://huggingface.co/datasets/omron-sinicx/scipostlayout_v2)] <br>
 
 ### Content-aware Layout Generation
 
@@ -31,10 +32,20 @@
 
 ## 2024
 
+**Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model**
+*Shoma Iwai, Atsuki Osanai, Shunsuke Kitada, Shinichiro Omachi.* <br>
+ECCV 2024, Tohoku University & LY Corporation <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2409.16689)] <br>
+
 **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models** <br>
 *Jian Ma, Yonglin Deng, Chen Chen, Haonan Lu, Zhenyu Yang.* <br>
 arXiv 2024, OPPO AI Center & CUHK Shenzhen <br>
 [[Paper](https://arxiv.org/abs/2407.02252)] [[Github](https://github.com/OPPO-Mente-Lab/GlyphDraw2)]<br>
+
+**SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters** <br>
+*Shohei Tanaka, Hao Wang, Yoshitaka Ushiku.* <br>
+BMVC 2024, OMRON SINIC X Corporation & Waseda University <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2407.19787)] [[Github](https://github.com/omron-sinicx/scipostlayout)] <br>
 
 **Predicting Visual Attention in Graphic Design Documents** <br>
 *Souradeep Chakraborty, Zijun Wei, Conor Kelton, Seoyoung Ahn, Aruna Balasubramanian, Gregory J. Zelinsky, Dimitris Samaras.* <br>
@@ -79,7 +90,7 @@ arXiv 2024, ByteDance & UCAS <br>
 
 **PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation** <br>
 *Jaejung Seol, Seojun Kim, Jaejun Yoo.* <br>
-arXiv 2024, Ulsan National Institute of Science and Technology <br>
+ECCV 2024, Ulsan National Institute of Science and Technology <br>
 **LLM-based** [[Paper](https://arxiv.org/abs/2404.00995)] [[Github-1](https://github.com/jaepoong/PosterLlama)] [[Github-2](https://anonymous.4open.science/r/PosterLlama/readme.md)]<br>
 
 **Constrained Layout Generation with Factor Graphs** <br>
@@ -128,6 +139,15 @@ ICLR 2024, Adobe Research & MBZUAI & University at Buffalo <br>
 AAAI 2024, Microsoft Research & Harbin Institute of Technology <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2401.16375)] [[Github](https://github.com/ffffatgoose/SpotError)] <br>
 
+**Dolfin: Diffusion Layout Transformers without Autoencoder** <br>
+*Yilin Wang, Zeyuan Chen, Liangjun Zhong, Zheng Ding, Zhizhou Sha, Zhuowen Tu.* <br>
+ECCV 2024, Tsinghua University & University of California, San Diego <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2310.16305)] <br>
+
+**LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer** <br>
+*Ning Yu, Chia-Chih Chen, Zeyuan Chen, Rui Meng, Gang Wu, Paul Josel, Juan Carlos Niebles, Caiming Xiong, Ran Xu.* <br>
+ECCV 2024, Salesforce Research <br>
+**Content-Aware** [[Paper](https://arxiv.org/abs/2212.09877)] [[Github](https://github.com/salesforce/LayoutDETR)]<br>
 
 ## 2023
 
@@ -135,11 +155,6 @@ AAAI 2024, Microsoft Research & Harbin Institute of Technology <br>
 *Peidong Jia, Chenxuan Li, Yuhui Yuan, Zeyu Liu, Yichao Shen, Bohan Chen, Xingru Chen, Yinglin Zheng, Dong Chen, Ji Li, Xiaodong Xie, Shanghang Zhang, Baining Guo.* <br>
 arXiv 2023, Microsoft Research Asia & Peking University <br>
 [[Paper](https://arxiv.org/abs/2311.16974)] <br>
-
-**Dolfin: Diffusion Layout Transformers without Autoencoder** <br>
-*Yilin Wang, Zeyuan Chen, Liangjun Zhong, Zheng Ding, Zhizhou Sha, Zhuowen Tu.* <br>
-arXiv 2023, Tsinghua University & University of California, San Diego <br>
-**Content-Agnostic** [[Paper](https://arxiv.org/abs/2310.16305)] <br>
 
 **Relation-Aware Diffusion Model for Controllable Poster Layout Generation** <br>
 *Fengheng Li, An Liu, Wei Feng, Honghe Zhu, Yaoyu Li, Zheng Zhang, Jingjing Lv, Xin Zhu, Junjie Shen, Zhangang Lin, Jingping Shao.* <br>
@@ -222,11 +237,6 @@ IMCOM 2023, Kyushu University <br>
 **Content-Agnostic** [[Paper](https://ieeexplore.ieee.org/abstract/document/10035646)] <br>
 
 ## 2022
-
-**LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer** <br>
-*Ning Yu, Chia-Chih Chen, Zeyuan Chen, Rui Meng, Gang Wu, Paul Josel, Juan Carlos Niebles, Caiming Xiong, Ran Xu.* <br>
-arXiv 2022, Salesforce Research <br>
-[[Paper](https://arxiv.org/abs/2212.09877)] <br>
 
 **Geometry Aligned Variational Transformer for Image-conditioned Layout Generation** <br>
 *Yunning Cao, Ye Ma, Min Zhou, Chuanbin Liu, Hongtao Xie, Tiezheng Ge, Yuning Jiang.* <br>

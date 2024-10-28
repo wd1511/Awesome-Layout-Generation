@@ -32,7 +32,12 @@
 
 ## 2024
 
-**Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model**
+**Design Element Aware Poster Layout Generation** <br>
+*Yinan Li, Jia Chen, Yin Bai, Jia Cheng, Jun Lei.* <vr>
+CIKM 2024, Mtituan <br>
+**Content-Aware** [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679557)] <br>
+
+**Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model** <br>
 *Shoma Iwai, Atsuki Osanai, Shunsuke Kitada, Shinichiro Omachi.* <br>
 ECCV 2024, Tohoku University & LY Corporation <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2409.16689)] <br>

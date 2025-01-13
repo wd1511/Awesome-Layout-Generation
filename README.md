@@ -3,6 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wd1511/Awesome-Layout-Generation) 
 
 - [Dataset](#dataset)
+- [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)

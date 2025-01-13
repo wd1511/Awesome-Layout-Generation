@@ -30,17 +30,44 @@
 - CGL Dataset v2 (CIKM 2023) [[Paper](https://arxiv.org/abs/2306.09086)] [[Github](https://github.com/liuan0803/RADM?tab=readme-ov-file)] [[Download](https://github.com/liuan0803/RADM?tab=readme-ov-file)] <br>
 - PKU PosterLayout Dataset (CVPR 2023) [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf)] [[Github](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)] [[Download1(official)](http://39.108.48.32/mipl/PosterLayout/)] [[Download2(unofficial)](https://huggingface.co/datasets/creative-graphic-design/PKU-PosterLayout)] <br>
 
+## 2025
+
+**Spatial Information Integration in Small Language Models for Document Layout Generation and Classification** <br>
+*Pablo Melendez, Clemens Havas.* <br>
+arXiv 2024, Salzburg University of Applied Sciences<br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2501.05497)] <br>
+
 ## 2024
 
+**Image-aware layout generation with user constraints for poster design** <br>
+*Chenchen Xu, Kaixin Han, Weiwei Xu.* <br>
+The Visual Computer, Zhejiang University <br>
+**Content-Aware** [[Paper](https://link.springer.com/article/10.1007/s00371-024-03657-z)] <br>
+
 **Design Element Aware Poster Layout Generation** <br>
-*Yinan Li, Jia Chen, Yin Bai, Jia Cheng, Jun Lei.* <vr>
+*Yinan Li, Jia Chen, Yin Bai, Jia Cheng, Jun Lei.* <br>
 CIKM 2024, Mtituan <br>
 **Content-Aware** [[Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679557)] <br>
+
+**Multimodal Markup Document Models for Graphic Design Completion** <br>
+*Kotaro Kikuchi, Naoto Inoue, Mayu Otani, Edgar Simo-Serra, Kota Yamaguchi.* <br>
+arxiv 2024, CyberAgent & Waseda University <br>
+**Content-Aware** [[Paper](https://arxiv.org/abs/2409.19051)] <br>
 
 **Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model** <br>
 *Shoma Iwai, Atsuki Osanai, Shunsuke Kitada, Shinichiro Omachi.* <br>
 ECCV 2024, Tohoku University & LY Corporation <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2409.16689)] <br>
+
+**LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation** <br>
+*Mayu Otani, Naoto Inoue, Kotaro Kikuchi, Riku Togashi.* <br>
+arXiv 2024, CyberAgent <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2407.12356)] <br>
+
+**LayoutDiT: Exploring Content-Graphic Balance in Layout Generation with Diffusion Transformer** <br>
+*Yu Li, Yifan Chen, Gongye Liu, Fei Yin, Qingyan Bai, Jie Wu, Hongfa Wang, Ruihang Chu, Yujiu Yang.* <br>
+arXiv 2024, Tsinghua University & Tencent & HKUST <br>
+**Content-Aware** [[Paper](https://arxiv.org/abs/2407.15233)] <br>
 
 **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models** <br>
 *Jian Ma, Yonglin Deng, Chen Chen, Haonan Lu, Zhenyu Yang.* <br>
@@ -356,8 +383,9 @@ TVCG 2014, Adobe & the University of Toronto <br>
 [[Paper](https://www.dgp.toronto.edu/~donovan/layout/designLayout.pdf)] [[Project](https://www.dgp.toronto.edu/~donovan/layout/)] <br>
 
 ## Reference
+https://github.com/JosephKJ/Awesome-Layout-Generators <br>
 https://github.com/huapohen/Awesome-Layout-Generation <br>
 https://github.com/Layout-Generation/layout-generation <br>
 https://github.com/microsoft/LayoutGeneration <br>
 https://github.com/jdily/awesome-layout-generation <br>
-https://github.com/JosephKJ/Awesome-Layout-Generators <br>
+

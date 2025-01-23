@@ -224,7 +224,7 @@ ICCV 2023, Microsoft Research Asia & Shanghai Jiao Tong University <br>
 ICDAR 2023, Microsoft Cloud and AI & Purdue University <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2303.10787)] <br>
 
-**PLay: Parametrically Conditioned Layout Generation using Latent Diffusion**
+**PLay: Parametrically Conditioned Layout Generation using Latent Diffusion** <br>
 *Chin-Yi Cheng, Forrest Huang, Gang Li, Yang Li.* <br>
 ICML 2023, Google Research <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2301.11529v2)] <br>
@@ -370,7 +370,7 @@ TPAMI 2020 (LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Advers
 
 **Automatic Generation of Visual-Textual Presentation Layout** <br>
 *Xuyong Yang, Tao Mei, Ying-Qing Xu, Yong Rui, Shipeng Li.* <br>
-ACM TOMM 2016, Microsoft Research Asia & University of Science and Technology of China <br>
+ACM ToMM 2016, Microsoft Research Asia & University of Science and Technology of China <br>
 [[Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf)] <br>
 
 **DesignScape: Design with Interactive Layout Suggestions** <br>

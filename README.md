@@ -50,6 +50,21 @@ arXiv 2024, Salzburg University of Applied Sciences<br>
 
 ## 2024
 
+**VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction** <br>
+*Jiahao Zhang, Ryota Yoshihashi, Shunsuke Kitada, Atsuki Osanai, Yuta Nakashima.* <br>
+arXiv 2024, Osaka University <br>
+**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2412.04237)] <br>
+
+**DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation** <br>
+*Zhaoxing Gan, Guangnan Ye.* <br>
+arXiv 2024, Fudan University <br>
+**Content-Agnostic** **LLM-based** [[Paper](https://arxiv.org/abs/2412.00381)] [[Github](https://github.com/deadsmither5/DogLayout)]<br>
+
+**GLDesigner: Leveraging Multi-Modal LLMs as Designer for Enhanced Aesthetic Text Glyph Layouts** <br>
+*Junwen He, Yifan Wang, Lijun Wang, Huchuan Lu, Jun-Yan He, Chenyang Li, Hanyuan Chen, Jin-Peng Lan, Bin Luo, Yifeng Geng.* <br>
+arXiv 2024, Dalian University of Technology & Alibaba <br>
+[[Paper](https://arxiv.org/abs/2411.11435)] <br>
+
 **Image-aware layout generation with user constraints for poster design** <br>
 *Chenchen Xu, Kaixin Han, Weiwei Xu.* <br>
 The Visual Computer, Zhejiang University <br>

@@ -33,10 +33,20 @@
 
 ## 2025
 
+**Smaller But Better: Unifying Layout Generation with Smaller Large Language Models** <br>
+*Peirong Zhang, Jiaxin Zhang, Jiahuan Cao, Hongliang Li, Lianwen Jin.* <br>
+arXiv 2024, South China University of Technology <br>
+**Content-Agnostic** **LLM-based** [[Paper](https://arxiv.org/abs/2502.14005)] [[Github](https://github.com/NiceRingNode/LGGPT)] <br>
+
+**Illuminating Spaces: Deep Reinforcement Learning and Laser-Wall Partitioning for Architectural Layout Generation** <br>
+*Reza Kakooee, Benjamin Dillenburger.* <br>
+arXiv 2024, ETH Zurich <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2502.04407)] <br>
+
 **Spatial Information Integration in Small Language Models for Document Layout Generation and Classification** <br>
 *Pablo Melendez, Clemens Havas.* <br>
 arXiv 2024, Salzburg University of Applied Sciences<br>
-**Content-Agnostic** [[Paper](https://arxiv.org/abs/2501.05497)] <br>
+**Content-Agnostic** **LLM-based** [[Paper](https://arxiv.org/abs/2501.05497)] <br>
 
 ## 2024
 
@@ -73,7 +83,7 @@ arXiv 2024, Tsinghua University & Tencent & HKUST <br>
 **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models** <br>
 *Jian Ma, Yonglin Deng, Chen Chen, Haonan Lu, Zhenyu Yang.* <br>
 arXiv 2024, OPPO AI Center & CUHK Shenzhen <br>
-[[Paper](https://arxiv.org/abs/2407.02252)] [[Github](https://github.com/OPPO-Mente-Lab/GlyphDraw2)]<br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2407.02252)] [[Github](https://github.com/OPPO-Mente-Lab/GlyphDraw2)]<br>
 
 **SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters** <br>
 *Shohei Tanaka, Hao Wang, Yoshitaka Ushiku.* <br>

@@ -35,17 +35,22 @@
 
 **Smaller But Better: Unifying Layout Generation with Smaller Large Language Models** <br>
 *Peirong Zhang, Jiaxin Zhang, Jiahuan Cao, Hongliang Li, Lianwen Jin.* <br>
-arXiv 2024, South China University of Technology <br>
+arXiv 2025, South China University of Technology <br>
 **Content-Agnostic** **LLM-based** [[Paper](https://arxiv.org/abs/2502.14005)] [[Github](https://github.com/NiceRingNode/LGGPT)] <br>
 
 **Illuminating Spaces: Deep Reinforcement Learning and Laser-Wall Partitioning for Architectural Layout Generation** <br>
 *Reza Kakooee, Benjamin Dillenburger.* <br>
-arXiv 2024, ETH Zurich <br>
+arXiv 2025, ETH Zurich <br>
 **Content-Agnostic** [[Paper](https://arxiv.org/abs/2502.04407)] <br>
+
+**Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs** <br>
+*Gaye Colakoglu, Gürkan Solmaz, Jonathan Fürst.* <br>
+arXiv 2025, Zurich University of Applied Sciences <br>
+**layout-aware**  **LLM-based** [[Paper](https://arxiv.org/abs/2502.18179)]
 
 **Spatial Information Integration in Small Language Models for Document Layout Generation and Classification** <br>
 *Pablo Melendez, Clemens Havas.* <br>
-arXiv 2024, Salzburg University of Applied Sciences<br>
+arXiv 2025, Salzburg University of Applied Sciences<br>
 **Content-Agnostic** **LLM-based** [[Paper](https://arxiv.org/abs/2501.05497)] <br>
 
 ## 2024

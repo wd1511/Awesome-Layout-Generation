@@ -46,7 +46,7 @@ arXiv 2025, ETH Zurich <br>
 **Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs** <br>
 *Gaye Colakoglu, Gürkan Solmaz, Jonathan Fürst.* <br>
 arXiv 2025, Zurich University of Applied Sciences <br>
-**layout-aware**  **LLM-based** [[Paper](https://arxiv.org/abs/2502.18179)]
+**layout-aware**  **LLM-based** [[Paper](https://arxiv.org/abs/2502.18179)] [[Github](https://github.com/gayecolakoglu/LayIE-LLM)] <br>
 
 **Spatial Information Integration in Small Language Models for Document Layout Generation and Classification** <br>
 *Pablo Melendez, Clemens Havas.* <br>

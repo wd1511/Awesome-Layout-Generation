@@ -36,7 +36,8 @@
 **Smaller But Better: Unifying Layout Generation with Smaller Large Language Models** <br>
 *Peirong Zhang, Jiaxin Zhang, Jiahuan Cao, Hongliang Li, Lianwen Jin.* <br>
 arXiv 2025, South China University of Technology <br>
-**Content-Agnostic** **LLM-based** [[Paper](https://arxiv.org/abs/2502.14005)] [[Github](https://github.com/NiceRingNode/LGGPT)] <br>
+**Content-Agnostic** **LLM-based** [[Paper](https://arxiv.org/abs/2502.14005)] 
+[[Github](https://github.com/NiceRingNode/LGGPT)] <br>
 
 **Illuminating Spaces: Deep Reinforcement Learning and Laser-Wall Partitioning for Architectural Layout Generation** <br>
 *Reza Kakooee, Benjamin Dillenburger.* <br>
@@ -46,7 +47,8 @@ arXiv 2025, ETH Zurich <br>
 **Problem Solved? Information Extraction Design Space for Layout-Rich Documents using LLMs** <br>
 *Gaye Colakoglu, Gürkan Solmaz, Jonathan Fürst.* <br>
 arXiv 2025, Zurich University of Applied Sciences <br>
-**layout-aware**  **LLM-based** [[Paper](https://arxiv.org/abs/2502.18179)] [[Github](https://github.com/gayecolakoglu/LayIE-LLM)] <br>
+**layout-aware**  **LLM-based** [[Paper](https://arxiv.org/abs/2502.18179)] 
+[[Github](https://github.com/gayecolakoglu/LayIE-LLM)] <br>
 
 **Spatial Information Integration in Small Language Models for Document Layout Generation and Classification** <br>
 *Pablo Melendez, Clemens Havas.* <br>
@@ -63,7 +65,8 @@ arXiv 2024, Osaka University <br>
 **DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation** <br>
 *Zhaoxing Gan, Guangnan Ye.* <br>
 arXiv 2024, Fudan University <br>
-**Content-Agnostic** **LLM-based** [[Paper](https://arxiv.org/abs/2412.00381)] [[Github](https://github.com/deadsmither5/DogLayout)]<br>
+**Content-Agnostic** **LLM-based** [[Paper](https://arxiv.org/abs/2412.00381)] 
+[[Github](https://github.com/deadsmither5/DogLayout)] <br>
 
 **GLDesigner: Leveraging Multi-Modal LLMs as Designer for Enhanced Aesthetic Text Glyph Layouts** <br>
 *Junwen He, Yifan Wang, Lijun Wang, Huchuan Lu, Jun-Yan He, Chenyang Li, Hanyuan Chen, Jin-Peng Lan, Bin Luo, Yifeng Geng.* <br>
@@ -103,7 +106,8 @@ arXiv 2024, Tsinghua University & Tencent & HKUST <br>
 **GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models** <br>
 *Jian Ma, Yonglin Deng, Chen Chen, Haonan Lu, Zhenyu Yang.* <br>
 arXiv 2024, OPPO AI Center & CUHK Shenzhen <br>
-**LLM-based** [[Paper](https://arxiv.org/abs/2407.02252)] [[Github](https://github.com/OPPO-Mente-Lab/GlyphDraw2)]<br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2407.02252)] 
+[[Github](https://github.com/OPPO-Mente-Lab/GlyphDraw2)] <br>
 
 **SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters** <br>
 *Shohei Tanaka, Hao Wang, Yoshitaka Ushiku.* <br>
@@ -118,17 +122,22 @@ arXiv 2024, Stony Brook University <br>
 **Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering** <br>
 *Zeyu Liu, Weicong Liang, Yiming Zhao, Bohan Chen, Lin Liang, Lijuan Wang, Ji Li, Yuhui Yuan.* <br>
 arXiv 2024, Microsoft <br>
-[[Paper](https://arxiv.org/abs/2406.10208)] [[Project](https://glyph-byt5-v2.github.io)] [[Github](https://github.com/AIGText/Glyph-ByT5)]<br>
+[[Paper](https://arxiv.org/abs/2406.10208)] 
+[[Project](https://glyph-byt5-v2.github.io)] 
+[[Github](https://github.com/AIGText/Glyph-ByT5)] <br>
 
 **OpenCOLE: Towards Reproducible Automatic Graphic Design Generation** <br>
 *Naoto Inoue, Kento Masui, Wataru Shimoda, Kota Yamaguchi.* <br>
 CVPRW 2024, CyberAgent <br>
-[[Paper](https://arxiv.org/abs/2406.08232)] [[Github](https://github.com/CyberAgentAILab/OpenCOLE)]<br>
+[[Paper](https://arxiv.org/abs/2406.08232)] 
+[[Github](https://github.com/CyberAgentAILab/OpenCOLE)] <br>
 
 **PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM** <br>
 *Tao Yang, Yingmin Luo, Zhongang Qi, Yang Wu, Ying Shan, Chang Wen Chen.* <br>
 arXiv 2024, Tencent PCG <br>
-**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2406.02884)] [[Project](https://huggingface.co/spaces/posterllava/PosterLLaVA)] [[Github](https://github.com/posterllava/PosterLLaVA)] <br>
+**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2406.02884)] 
+[[Project](https://huggingface.co/spaces/posterllava/PosterLLaVA)] 
+[[Github](https://github.com/posterllava/PosterLLaVA)] <br>
 
 **CoLay: Controllable Layout Generation through Multi-conditional Latent Diffusion** <br>
 *Chin-Yi Cheng, Ruiqi Gao, Forrest Huang, Yang Li.* <br>
@@ -154,7 +163,9 @@ arXiv 2024, ByteDance & UCAS <br>
 **PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation** <br>
 *Jaejung Seol, Seojun Kim, Jaejun Yoo.* <br>
 ECCV 2024, Ulsan National Institute of Science and Technology <br>
-**LLM-based** [[Paper](https://arxiv.org/abs/2404.00995)] [[Github-1](https://github.com/jaepoong/PosterLlama)] [[Github-2](https://anonymous.4open.science/r/PosterLlama/readme.md)]<br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2404.00995)] 
+[[Github-1](https://github.com/jaepoong/PosterLlama)] 
+[[Github-2](https://anonymous.4open.science/r/PosterLlama/readme.md)]<br>
 
 **Constrained Layout Generation with Factor Graphs** <br>
 *Mohammed Haroon Dupty, Yanfei Dong, Sicong Leng, Guoji Fu, Yong Liang Goh, Wei Lu, Wee Sun Lee.* <br>
@@ -164,32 +175,41 @@ CVPR 2024, PayPal & National University of Singapore <br>
 **LayoutFlow: Flow Matching for Layout Generation** <br>
 *Julian Jorge Andrade Guerreiro, Naoto Inoue, Kento Masui, Mayu Otani, Hideki Nakayama.* <br>
 ECCV 2024, CyberAgent & The University of Tokyo <br>
-**Content-Agnostic** [[Paper](https://arxiv.org/abs/2403.18187)] [[Project](https://julianguerreiro.github.io/layoutflow/)] [[Github](https://github.com/JulianGuerreiro/LayoutFlow)]<br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2403.18187)] 
+[[Project](https://julianguerreiro.github.io/layoutflow/)] 
+[[Github](https://github.com/JulianGuerreiro/LayoutFlow)] <br>
 
 **Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering** <br>
 *Zeyu Liu, Weicong Liang, Zhanhao Liang, Chong Luo, Ji Li, Gao Huang, Yuhui Yuan.* <br>
 arXiv 2024, Microsoft Research Asia & Tsinghua University <br>
-[[Paper](https://arxiv.org/abs/2403.09622)] [[Project](https://glyph-byt5.github.io)] [[Github](https://github.com/AIGText/Glyph-ByT5)]<br>
+[[Paper](https://arxiv.org/abs/2403.09622)] 
+[[Project](https://glyph-byt5.github.io)] 
+[[Github](https://github.com/AIGText/Glyph-ByT5)] <br>
 
 **Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation** <br>
 *Mohammad Amin Shabani, Zhaowen Wang, Difan Liu, Nanxuan Zhao, Jimei Yang, Yasutaka Furukawa.* <br>
 CVPR 2024, Adobe & Simon Fraser University <br>
-**Content-Aware** [[Paper](https://aminshabani.github.io/visual_layout_composer/pdfs/visual_layout_composer.pdf)] [[Project](https://aminshabani.github.io/visual_layout_composer/)] <br>
+**Content-Aware** [[Paper](https://aminshabani.github.io/visual_layout_composer/pdfs/visual_layout_composer.pdf)] 
+[[Project](https://aminshabani.github.io/visual_layout_composer/)] <br>
 
 **Desigen: A Pipeline for Controllable Design Template Generation** <br>
 *Haohan Weng, Danqing Huang, Yu Qiao, Zheng Hu, Chin-Yew Lin, Tong Zhang, C. L. Philip Chen.* <br>
 CVPR 2024, Microsoft Research Asia & South China University of Technology <br>
-[[Paper](https://arxiv.org/abs/2403.09093)] [[Github](https://github.com/whaohan/desigen)] <br>
+[[Paper](https://arxiv.org/abs/2403.09093)] 
+[[Github](https://github.com/whaohan/desigen)] <br>
 
 **Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation** <br>
 *Daichi Horita, Naoto Inoue, Kotaro Kikuchi, Kota Yamaguchi, Kiyoharu Aizawa.* <br>
 CVPR 2024(oral), CyberAgent & The University of Tokyo <br>
-**Content-Aware** [[Paper](https://arxiv.org/abs/2311.13602)] [[Project](https://udonda.github.io/RALF/)] [[Github](https://github.com/CyberAgentAILab/RALF)] <br>
+**Content-Aware** [[Paper](https://arxiv.org/abs/2311.13602)] 
+[[Project](https://udonda.github.io/RALF/)] 
+[[Github](https://github.com/CyberAgentAILab/RALF)] <br>
 
 **LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models** <br>
 *Zecheng Tang, Chenfei Wu, Juntao Li, Nan Duan.* <br>
 ICLR 2024, Microsoft Research Asia & Soochow University <br>
-**Content-Agnostic** [[Paper](https://openreview.net/pdf?id=qCUWVT0Ayy)] [[Github](https://github.com/ProjectNUWA/LayoutNUWA)] <br>
+**Content-Agnostic** [[Paper](https://openreview.net/pdf?id=qCUWVT0Ayy)] 
+[[Github](https://github.com/ProjectNUWA/LayoutNUWA)] <br>
 
 **Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints** <br>
 *Jian Chen, Ruiyi Zhang, Yufan Zhou, Rajiv Jain, Zhiqiang Xu, Ryan Rossi, Changyou Chen.* <br>
@@ -200,7 +220,8 @@ ICLR 2024, Adobe Research & MBZUAI & University at Buffalo <br>
 **Spot the Error: Non-autoregressive Graphic Layout Generation with Wireframe Locator** <br>
 *Jieru Lin, Danqing Huang, Tiejun Zhao, Dechen Zhan, Chin-Yew Lin.* <br>
 AAAI 2024, Microsoft Research & Harbin Institute of Technology <br>
-**Content-Agnostic** [[Paper](https://arxiv.org/abs/2401.16375)] [[Github](https://github.com/ffffatgoose/SpotError)] <br>
+**Content-Agnostic** [[Paper](https://arxiv.org/abs/2401.16375)] 
+[[Github](https://github.com/ffffatgoose/SpotError)] <br>
 
 **Dolfin: Diffusion Layout Transformers without Autoencoder** <br>
 *Yilin Wang, Zeyuan Chen, Liangjun Zhong, Zheng Ding, Zhizhou Sha, Zhuowen Tu.* <br>
@@ -210,7 +231,8 @@ ECCV 2024, Tsinghua University & University of California, San Diego <br>
 **LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer** <br>
 *Ning Yu, Chia-Chih Chen, Zeyuan Chen, Rui Meng, Gang Wu, Paul Josel, Juan Carlos Niebles, Caiming Xiong, Ran Xu.* <br>
 ECCV 2024, Salesforce Research <br>
-**Content-Aware** [[Paper](https://arxiv.org/abs/2212.09877)] [[Github](https://github.com/salesforce/LayoutDETR)]<br>
+**Content-Aware** [[Paper](https://arxiv.org/abs/2212.09877)] 
+[[Github](https://github.com/salesforce/LayoutDETR)] <br>
 
 ## 2023
 

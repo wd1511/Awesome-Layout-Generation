@@ -33,6 +33,12 @@
 
 ## 2025
 
+**POSTA: A Go-to Framework for Customized Artistic Poster Generation** <br>
+*Haoyu Chen, Xiaojie Xu, Wenbo Li, Jingjing Ren, Tian Ye, Songhua Liu, Ying-Cong Chen, Lei Zhu, Xinchao Wang.* <br>
+CVPR 2025, HKUST(Guangzhou) & CUHK & NUS & HKUST <br>
+**LLM-based** [[Paper](https://arxiv.org/abs/2503.14908)] 
+[[Project](https://haoyuchen.com/POSTA)] <br>
+
 **Smaller But Better: Unifying Layout Generation with Smaller Large Language Models** <br>
 *Peirong Zhang, Jiaxin Zhang, Jiahuan Cao, Hongliang Li, Lianwen Jin.* <br>
 arXiv 2025, South China University of Technology <br>

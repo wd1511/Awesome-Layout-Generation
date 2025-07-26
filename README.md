@@ -33,6 +33,12 @@
 
 ## 2025
 
+**AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models** <br>
+*Sohan Patnaik, Rishabh Jain, Balaji Krishnamurthy, Mausoom Sarkar.* <br>
+CVPR 2025, Adobe <br>
+**Content-Aware** **VLM-based** [[Paper](http://openaccess.thecvf.com/content/CVPR2025/html/Patnaik_AesthetiQ_Enhancing_Graphic_Layout_Design_via_Aesthetic-Aware_Preference_Alignment_of_CVPR_2025_paper.html)] 
+[[Project](https://mdsrlab.github.io/2025/03/01/AesthetiQ-CVPR.html)] <br>
+
 **POSTA: A Go-to Framework for Customized Artistic Poster Generation** <br>
 *Haoyu Chen, Xiaojie Xu, Wenbo Li, Jingjing Ren, Tian Ye, Songhua Liu, Ying-Cong Chen, Lei Zhu, Xinchao Wang.* <br>
 CVPR 2025, HKUST(Guangzhou) & CUHK & NUS & HKUST <br>

@@ -4,7 +4,7 @@
 
 A curated bibliography of graphic layout generation, content-aware poster design, document layouts and editable graphic design.
 
-**Last updated: 2026-10-16.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-10-27.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 - [Dataset](#dataset)
 - [2026](#2026)
@@ -48,6 +48,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Design Evaluation and Scientific Poster Benchmarks
 
+- RAP-25K / RAP-150 (paper-to-poster markup and evaluation, 2026) [[Paper](https://arxiv.org/abs/2610.23230)] [[Project](https://reconstruct-a-poster.github.io/)] [[Github](https://github.com/VincentHancoder/RAP)] [[Dataset](https://huggingface.co/datasets/VincentHancoder/RAP)] <br>
 - DesignSense (2026) [[Paper](https://arxiv.org/abs/2602.23438)] <br>
 - TASTE (2026) [[Paper](https://arxiv.org/abs/2605.20731)] <br>
 - Graphic-Design-Bench (NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2604.04192)] [[Github](https://github.com/purvanshi/lica-bench)] <br>
@@ -58,6 +59,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Slide, Infographic and Structured Editing Benchmarks
 
+- MDMR-Bench (includes infographic manipulation, NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2610.32459)] [[Github](https://github.com/LHRYANG/MDMR-Bench)] [[Dataset](https://huggingface.co/datasets/MDMR-Bench/MDMR-Bench)] <br>
 - InstructEdit (content-edited layout generation, 2026) [[Paper](https://arxiv.org/abs/2610.17905)] <br>
 - VisSlideBench (slide generation and editing, 2026) [[Paper](https://arxiv.org/abs/2610.16784)] [[Github / Data](https://github.com/VectorSpaceLab/InfoVis)] <br>
 - InfoEdit (infographic editing and reflow, 2026) [[Paper](https://arxiv.org/abs/2609.33286)] [[Project](https://infoedit.github.io)] <br>
@@ -73,17 +75,45 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ## 2026
 
+**MDMR-Bench: A Multi-Dimensional Benchmark for Multi-Reference Image Generation** <br>
+*Bowen Zheng, Jintao Lin, Changheng Yi, Haoran Yang, Binxiao Huang, Chenyang Lei, Rui Liu, Xihui Liu.* <br>
+NeurIPS 2026 Evaluations & Datasets Track (accepted), Nanjing University & Huawei Research & The University of Hong Kong <br>
+*Includes a dedicated infographic manipulation subset.* <br>
+**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2610.32459)]
+[[Conference](https://neurips.cc/virtual/2026/poster/139230)]
+[[Github](https://github.com/LHRYANG/MDMR-Bench)]
+[[Dataset](https://huggingface.co/datasets/MDMR-Bench/MDMR-Bench)] <br>
+
+**Building Presentation Intelligence for High-Quality Slide Generation** <br>
+*Yuhang Xie, Cheng Li, Chenliang Li, Mingyu Xu, Mingwei Sun, Suhang Zheng, Ming Yan, Xiaoxiao Xu, Lin Qu.* <br>
+arXiv 2026, Peking University & Alibaba Group <br>
+**Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2610.30888)]
+[[Model (27B RL)](https://huggingface.co/Logics-MLLM/Logics-PPT-Qwen3.6-27B-RL)]
+[[Model (35B-A3B RL)](https://huggingface.co/Logics-MLLM/Logics-PPT-Qwen3.6-35B-A3B-RL)] <br>
+
+**RAP: A Dataset for Paper-to-Poster Generation via Declarative Markup from Human-Crafted Exemplars** <br>
+*Haonan Han, Yukang Lin, Minliang Lin, Haoxian Tan, Jun-Yan He, Rui Yang, Zhi-Qi Cheng, Jie Hu, Guanglu Wan, Xiu Li.* <br>
+arXiv 2026, Tsinghua University & Meituan Longcat & The University of Hong Kong & University of Washington <br>
+**Dataset / Evaluation** **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2610.23230)]
+[[Project](https://reconstruct-a-poster.github.io/)]
+[[Github](https://github.com/VincentHancoder/RAP)]
+[[Dataset](https://huggingface.co/datasets/VincentHancoder/RAP)] <br>
+
 **PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning** <br>
 *Jaeho Lee, Junhwan Heo, Junghyun Park, WonJun Moon, Eunju Yang, Seungho Jang, Seongchan Kim, Seungryong Kim.* <br>
 arXiv 2026, KAIST AI <br>
 **Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2610.18865)]
-[[Project](https://cvlab-kaist.github.io/PlayGround/)] <br>
+[[Project](https://cvlab-kaist.github.io/PlayGround/)]
+[[Github (code forthcoming)](https://github.com/cvlab-kaist/PlayGround)] <br>
 
 **AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards** <br>
 *Xin Gao, Yifan Yang, Xin Li, Pan Wang, Yan Li, Muzhao Tian, Mingxi Cheng, Bei Liu, Kai Qiu, Qi Dai, Dong Chen, Yue Dong, Leandros Tassiulas, Rex Ying, Ji Li, Chong Luo.* <br>
 arXiv 2026, Microsoft & Yale University & Nanyang Technological University & University of Pittsburgh & Shanghai Jiao Tong University & Fudan University <br>
 **Graphic Design Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2610.18860)]
-[[Project](https://microsoft.github.io/AesCode/)] <br>
+[[Project](https://microsoft.github.io/AesCode/)]
+[[Github](https://github.com/microsoft/AesCode)]
+[[Model (8B)](https://huggingface.co/microsoft/AesCode-8B)]
+[[Model (32B)](https://huggingface.co/microsoft/AesCode-32B)] <br>
 
 **LayerCanvas: Infographic Generation in AI Learning Assistants via Hybrid Layer-Set Diffusion** <br>
 *Keshav Gupta, Jeremy Owen, Christopher Lloyd, Shaunak Mishra, Manav Sharma.* <br>

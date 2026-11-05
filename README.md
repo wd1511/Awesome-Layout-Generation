@@ -4,7 +4,7 @@
 
 A curated bibliography of graphic layout generation, content-aware poster design, document layouts and editable graphic design.
 
-**Last updated: 2026-10-27.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-11-05.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 - [Dataset](#dataset)
 - [2026](#2026)
@@ -40,6 +40,8 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Recent Layout and Graphic Design Datasets
 
+- LayerEditor-100K (paired instruction-driven edits with ordered RGBA layers, 2026) [[Paper](https://arxiv.org/abs/2610.24738)] <br>
+- MCSketch8K (editable vector assets and compositional layouts, SketchDirector, 2026) [[Paper](https://arxiv.org/abs/2610.41260)] [[Project](https://yiki77.github.io/SketchDirector/)] <br>
 - OmniDocLayout-1M (CVPR 2026) [[Paper](https://arxiv.org/abs/2510.26213)] [[Github](https://github.com/opendatalab/OmniDocLayout)] [[Download](https://huggingface.co/datasets/khr0516/OmniDocLayout-1M)] <br>
 - Sketch-to-Layout datasets (ICCV 2025 Workshops) [[Paper](https://arxiv.org/abs/2510.27632)] [[Github / Data](https://github.com/google-deepmind/sketch_to_layout)] <br>
 - GenPoster-100K (SEGA, ICCV 2025) [[Paper](https://arxiv.org/abs/2510.15749)] [[Project](https://brucew91.github.io/SEGA.github.io/)] [[Dataset](https://github.com/BruceW91/SEGA/tree/main/GenPoster-100K_Dataset)] <br>
@@ -48,6 +50,9 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Design Evaluation and Scientific Poster Benchmarks
 
+- PosterHarness pilot benchmark (12-paper scientific-poster instruction following, 2026) [[Paper](https://arxiv.org/abs/2607.03006)] [[Github / Data](https://github.com/tyy99phy/paper_poster_harness)] <br>
+- LongLongTextBench (bilingual long-form text rendering, MOSS-Image, 2026) [[Paper](https://arxiv.org/abs/2610.23374)] [[Github](https://github.com/OpenMOSS/MOSS-Image)] <br>
+- RealLayoutArena (layout-rich image generation, MOSS-Image, 2026) [[Paper](https://arxiv.org/abs/2610.23374)] [[Github](https://github.com/OpenMOSS/MOSS-Image)] <br>
 - RAP-25K / RAP-150 (paper-to-poster markup and evaluation, 2026) [[Paper](https://arxiv.org/abs/2610.23230)] [[Project](https://reconstruct-a-poster.github.io/)] [[Github](https://github.com/VincentHancoder/RAP)] [[Dataset](https://huggingface.co/datasets/VincentHancoder/RAP)] <br>
 - DesignSense (2026) [[Paper](https://arxiv.org/abs/2602.23438)] <br>
 - TASTE (2026) [[Paper](https://arxiv.org/abs/2605.20731)] <br>
@@ -59,21 +64,79 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Slide, Infographic and Structured Editing Benchmarks
 
+- DeckEdit-Bench (shape-level slide editing and preservation, EditPPT, 2026) [[Paper](https://arxiv.org/abs/2608.20381)] [[Dataset](https://huggingface.co/datasets/EditPPT/DECKEDIT-BENCH)] <br>
+- TransEdit-Bench (transparent image editing, Qwen-Image-Layered 1.5, EMNLP 2026) [[Paper](https://aclanthology.org/2026.emnlp-main.2409/)] <br>
 - MDMR-Bench (includes infographic manipulation, NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2610.32459)] [[Github](https://github.com/LHRYANG/MDMR-Bench)] [[Dataset](https://huggingface.co/datasets/MDMR-Bench/MDMR-Bench)] <br>
 - InstructEdit (content-edited layout generation, 2026) [[Paper](https://arxiv.org/abs/2610.17905)] <br>
 - VisSlideBench (slide generation and editing, 2026) [[Paper](https://arxiv.org/abs/2610.16784)] [[Github / Data](https://github.com/VectorSpaceLab/InfoVis)] <br>
-- InfoEdit (infographic editing and reflow, 2026) [[Paper](https://arxiv.org/abs/2609.33286)] [[Project](https://infoedit.github.io)] <br>
+- InfoEdit (infographic editing and reflow, EMNLP 2026) [[Paper](https://arxiv.org/abs/2609.33286)] [[Project](https://infoedit.github.io)] <br>
 - VeriEdit-Bench (structured-asset editing, 2026) [[Paper](https://arxiv.org/abs/2610.04381)] [[Github / Data](https://github.com/flare200020/VeriEdit-Bench)] <br>
 - CoDeLayout (ECCV 2026) [[Paper](https://arxiv.org/abs/2608.26716)] [[Project](https://hukcc.github.io/Beyond-Atomic-Layouts/)] <br>
 - DeckQuiz (ReDeck, 2026) [[Paper](https://arxiv.org/abs/2609.00194)] [[Github / Data](https://github.com/microsoft/ReDeck)] <br>
 - PPTBench (editable scientific-diagram reconstruction, 2026) [[Paper](https://arxiv.org/abs/2609.29718)] [[Project](https://lab.einsia.ai/pptbench)] <br>
 - PresentBench (2026) [[Paper](https://arxiv.org/abs/2603.07244)] [[Project](https://presentbench.github.io)] <br>
 - DECKBench (2026) [[Paper](https://arxiv.org/abs/2602.13318)] [[Github / Data](https://github.com/morgan-heisler/DeckBench)] <br>
-- SlidesGen-Bench / Slides-Align1.5k (EMNLP 2026, accepted) [[Paper](https://arxiv.org/abs/2601.09487)] [[Github / Data](https://github.com/YunqiaoYang/SlidesGen-Bench)] <br>
+- SlidesGen-Bench / Slides-Align1.5k (EMNLP 2026) [[Paper](https://arxiv.org/abs/2601.09487)] [[Github / Data](https://github.com/YunqiaoYang/SlidesGen-Bench)] <br>
 - IGenBench (text-to-infographic reliability, 2026) [[Paper](https://arxiv.org/abs/2601.04498)] [[Project](https://igen-bench.vercel.app/)] <br>
 - SlidesBench (AutoPresent, CVPR 2025) [[Paper](https://arxiv.org/abs/2501.00912)] [[Github / Data](https://github.com/para-lost/AutoPresent)] <br>
 
 ## 2026
+
+**MaterialVellum: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints** <br>
+*Chu Li, Nicolai Marquardt, Hugo Romat, Ken Hinckley, Nathalie Riche, Kwon Ko, Fanny Chevalier.* <br>
+UIST 2026, Microsoft Research & University of Washington & Stanford University & University of Toronto <br>
+*Interactive material-inspired design constraints, with graphical design among the demonstrated applications.* <br>
+**Graphic Design Generation** [[Paper](https://arxiv.org/abs/2611.01800)]
+[[Proceedings](https://doi.org/10.1145/3830398.3830504)] <br>
+
+**SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement** <br>
+*Yiqi Liang, Xiaodong Cun.* <br>
+arXiv 2026, GVC Lab, Great Bay University <br>
+**Scene Layout Generation** **Graphic Design Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2610.41260)]
+[[Project](https://yiki77.github.io/SketchDirector/)] <br>
+
+**Qwen-Image-Layered 1.5: Unified Image Generation and Editing with Native Transparency Awareness** <br>
+*Shengming Yin, Zekai Zhang, Yixian Xu, Kaiyuan Gao, Zhendong Wang, Lihan Jiang, Ningyuan Tang, Tianhe Wu, Xiaoyue Chen, Yanran Zhang, Zihao Liu, Zikai Zhou, Jiahao Li, Xiao Xu, Kun Yan, Yuxiang Chen, Yilei Chen, Yan Shu, Jie Zhang, Heung-Yeung Shum, Lionel M. Ni, Jingren Zhou, Chenfei Wu.* <br>
+EMNLP 2026, The Hong Kong University of Science and Technology (Guangzhou) & Alibaba & The Hong Kong University of Science and Technology <br>
+**Graphic Design Generation** **Graphic Design Editing** **Dataset / Evaluation** [[Paper](https://aclanthology.org/2026.emnlp-main.2409/)] <br>
+
+**"Did You CoSeCh?": Faithfulness- and Coherence-Aware Auditing of Content Selection in Poster Generation** <br>
+*Aaditya Deshpande, Savita Bhat, Shirish Karande.* <br>
+DocInsights 2026 Workshop, TCS Research <br>
+**Dataset / Evaluation** **Scientific Poster / Slide Generation** [[Paper](https://aclanthology.org/2026.docinsights-1.24/)] <br>
+
+**PanelLayout: Story-Aware Hierarchical Panel Layout Generation via Synchronized Diffusion** <br>
+*Ye Tian, Haiqing Ren, Xinran Deng, Yanhao Zhang, Haonan Lu, Libo Zhang.* <br>
+ACMMM 2026, Institute of Software, Chinese Academy of Sciences & OPPO AI Center <br>
+**Content-Aware** [[Conference](https://2026.acmmm.org/site/technical-programme.html)] <br>
+
+**SlideGen: Collaborative Multimodal Agents for Scientific Slide Generation** <br>
+*Xin Liang, Zhilin Zhang, Xiang Zhang, Haoran Su, Yiwei Xu, Siqi Sun, Chenyu You.* <br>
+ACMMM 2026, Stony Brook University & New York University & University of British Columbia & University of California, Los Angeles & Fudan University <br>
+**Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2512.04529)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)]
+[[Project](https://y-research-sbu.github.io/SlideGen/)]
+[[Github](https://github.com/Y-Research-SBU/SlideGen)] <br>
+
+**EditPPT: Structured Execution and Evaluation for Reliable Slide Editing** <br>
+*Jiheon Kim, Kyudan Jung, Jaegul Choo.* <br>
+arXiv 2026, KAIST AI <br>
+**Graphic Design Editing** **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2608.20381)]
+[[Code](https://anonymous.4open.science/r/EditPPT-2027/)]
+[[Dataset](https://huggingface.co/datasets/EditPPT/DECKEDIT-BENCH)] <br>
+
+**Editing Images into Reusable Layers via Compositional Edit-Prior Distillation** <br>
+*Wen Xue, Yong Liu, Xueheng Li, Si Wu, Yong Xu, Yipeng Sun, Yan Li, Simiu Gu.* <br>
+arXiv 2026, South China University of Technology & Tsinghua University & University of Science and Technology of China & Peng Cheng Laboratory & JD.com <br>
+**Graphic Design Editing** **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2610.24738)] <br>
+
+**MOSS-Image Technical Report** <br>
+*MOSI.AI.* <br>
+arXiv 2026, MOSI Intelligence & SII & Fudan University & Shanghai Jiao Tong University <br>
+**Graphic Design Generation** **Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2610.23374)]
+[[Github](https://github.com/OpenMOSS/MOSS-Image)]
+[[Project](https://openmoss.ai/MOSS-Image/)]
+[[Model (SFT)](https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT)] <br>
 
 **MDMR-Bench: A Multi-Dimensional Benchmark for Multi-Reference Image Generation** <br>
 *Bowen Zheng, Jintao Lin, Changheng Yi, Haoran Yang, Binxiao Huang, Chenyang Lei, Rui Liu, Xihui Liu.* <br>
@@ -175,8 +238,9 @@ arXiv 2026, University at Buffalo, SUNY <br>
 
 **InfoEdit: Probing Global Layout Reasoning in Infographic Editing** <br>
 *Cheng Yang, Chufan Shi, Huijuan Wang, Bo Shui, Yaokang Wu, Muzi Tao, Yibo Yan, Xuezhe Ma, Taylor Berg-Kirkpatrick.* <br>
-arXiv 2026, University of California San Diego & University of Southern California & University of Illinois Urbana-Champaign & Carnegie Mellon University <br>
+EMNLP 2026, University of California San Diego & University of Southern California & University of Illinois Urbana-Champaign & Carnegie Mellon University <br>
 **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2609.33286)]
+[[Proceedings](https://aclanthology.org/2026.emnlp-main.2513/)]
 [[Project](https://infoedit.github.io)] <br>
 
 **Planning and Rendering in Concert: DeepFusion of Autoregressive Layouts and Diffusion for Visual Text Generation** <br>
@@ -195,16 +259,18 @@ NeurIPS 2026 (accepted) <br>
 **Graphic Design Editing** **LLM-based** [[Paper](https://arxiv.org/abs/2609.07072)]
 [[Conference](https://neurips.cc/virtual/2026/poster/150451)] <br>
 
-**SLIDEFORGE: An LLM Agent for Controllable Editing of Slides as Structured Artifacts** <br>
+**SlideForge: Controllable Editing of Slides as Structured Artifacts** <br>
 *Haozhen Zheng, Fulin Wang, Tianhu Xiong, Yingjie Yu, Shengyi Qian, Hanchao Yu, Alex Schwing, Klara Nahrstedt, Mingyuan Wu.* <br>
-EMNLP 2026 (accepted), University of Illinois Urbana-Champaign & Meta <br>
+EMNLP 2026, University of Illinois Urbana-Champaign & Meta <br>
 **Graphic Design Editing** **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2609.03109)]
+[[Proceedings](https://aclanthology.org/2026.emnlp-main.1690/)]
 [[Github](https://github.com/UIUC-MONET/SLIDEFORGE)] <br>
 
 **ConvDeck: Conversational Paper-to-Slide Generation via Stage-Specific User Feedback** <br>
 *Tarik Can Ozden, Sachidanand VS, Furkan Horoz, Ozgur Kara, Dilek Hakkani-Tür, Junho Kim, James Matthew Rehg.* <br>
-Findings of EMNLP 2026 (accepted), University of Illinois Urbana-Champaign <br>
+Findings of EMNLP 2026, University of Illinois Urbana-Champaign <br>
 **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2609.00226)]
+[[Proceedings](https://aclanthology.org/2026.findings-emnlp.541/)]
 [[Project](https://convdeck.github.io)] <br>
 
 **ReDeck: Step-Level Render-Grounded Refinement for Document-to-Slide Generation** <br>
@@ -228,8 +294,9 @@ ECCV 2026, Northeastern University & Adobe Research <br>
 
 **ACE: A Self-Correcting Agentic Canvas Editor for Multi-Slide Presentation Automation** <br>
 *JooYoung Jang, Taegyeong Lee, Jihyeon Park, Nojun Kwak.* <br>
-EMNLP 2026 Industry Track (accepted), Seoul National University & Miridih <br>
+EMNLP 2026 Industry Track, Seoul National University & Miridih <br>
 **Graphic Design Editing** **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2608.24103)]
+[[Proceedings](https://aclanthology.org/2026.emnlp-industry.74/)]
 [[Github](https://github.com/BloomBerry/agentic-canvas-editor)]
 [[Dataset](https://huggingface.co/datasets/BloomBerry/figma-slide-benchmark)] <br>
 
@@ -343,8 +410,9 @@ arXiv 2026, Institute of Automation, Chinese Academy of Sciences & University of
 
 **SlidesGen-Bench: Evaluating Slides Generation via Computational and Quantitative Metrics** <br>
 *Yunqiao Yang, Wenbo Li, Houxing Ren, Zimu Lu, Ke Wang, Zhiyuan Huang, Zhuofan Zong, Mingjie Zhan, Hongsheng Li.* <br>
-EMNLP 2026 (accepted), The Chinese University of Hong Kong & SenseTime Research & CPII under InnoHK & Shanghai AI Laboratory <br>
+EMNLP 2026, The Chinese University of Hong Kong & SenseTime Research & CPII under InnoHK & Shanghai AI Laboratory <br>
 **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2601.09487)]
+[[Proceedings](https://aclanthology.org/2026.emnlp-main.1482/)]
 [[Github](https://github.com/YunqiaoYang/SlidesGen-Bench)] <br>
 
 **IGenBench: Benchmarking the Reliability of Text-to-Infographic Generation** <br>
@@ -446,9 +514,10 @@ arXiv 2026, Microsoft Research & National University of Singapore & Nanyang Tech
 [[Github](https://github.com/hugohe3/ppt-master)] <br>
 
 **PosterHarness: Turning Scientific Poster Generation into an Auditable Instruction-Following Benchmark** <br>
-*Tianyi Yang, Dawei Fu, Youpeng Wu, Zixun Kou, Linrui Chen, Ruobing Jiang, Zijian Wang, Qiang Li.* <br>
+*Zijian Wang, Dawei Fu, Youpeng Wu, Zixun Kou, Linrui Chen, Ruobing Jiang, Tianyi Yang, Qiang Li.* <br>
 arXiv 2026, School of Physics, Peking University <br>
-**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2607.03006)] <br>
+**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2607.03006)]
+[[Github / Data](https://github.com/tyy99phy/paper_poster_harness)] <br>
 
 **Aggregating LLM-Based Weak Verifiers for Spatial Layout Generation** <br>
 *Sharon Zhang, R. Kenny Jones, Jiajun Wu, Maneesh Agrawala.* <br>
@@ -582,14 +651,16 @@ CVPR 2026, The Hong Kong University of Science and Technology (Guangzhou), & Mei
 
 **DesignAsCode: Bridging Structural Editability and Visual Fidelity in Graphic Design Generation** <br>
 *Ziyuan Liu, Shizhao Sun, Danqing Huang, Yingdong Shi, Meisheng Zhang, Ji Li, Jingsong Yu, Jiang Bian.* <br>
-arXiv 2026, School of Software and Microelectronics, Peking University, Beijing, China & Microsoft, Beijing, China & Microsoft, Mountain View, USA & ShanghaiTech University, Shanghai, China & Peking University, Beijing, China <br>
+ACMMM 2026, School of Software and Microelectronics, Peking University, Beijing, China & Microsoft, Beijing, China & Microsoft, Mountain View, USA & ShanghaiTech University, Shanghai, China & Peking University, Beijing, China <br>
 **Graphic Design Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2602.17690)]
+[[Conference](https://2026.acmmm.org/site/technical-programme.html)]
 [[Project](https://liuziyuan1109.github.io/design-as-code/)] <br>
 
 **APEX: Academic Poster Editing Agentic Expert** <br>
 *Chengxin Shi, Qinnan Cai, Zeyuan Chen, Long Zeng, Yibo Zhao, Jing Yu, Jianxiang Yu, Xiang Li.* <br>
-arXiv 2026, School of Data Science and Engineering, East China Normal University <br>
+Findings of EMNLP 2026, School of Data Science and Engineering, East China Normal University <br>
 **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2601.04794)]
+[[Proceedings](https://aclanthology.org/2026.findings-emnlp.2283/)]
 [[Github](https://github.com/Breesiu/APEX)] <br>
 
 **PosterVerse: A Full-Workflow Framework for Commercial-Grade Poster Generation with HTML-Based Scalable Typography** <br>

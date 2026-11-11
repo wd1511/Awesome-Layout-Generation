@@ -4,7 +4,7 @@
 
 A curated bibliography of graphic layout generation, content-aware poster design, document layouts and editable graphic design.
 
-**Last updated: 2026-11-05.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-11-11.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 - [Dataset](#dataset)
 - [2026](#2026)
@@ -50,6 +50,8 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Design Evaluation and Scientific Poster Benchmarks
 
+- ScreenProof (reference-free UI layout and style fault detection, 2026) [[Paper](https://arxiv.org/abs/2611.10234)] <br>
+- SVGFaith-Diagnostic / SVGFaith-Arena (text-to-SVG faithfulness, 2026) [[Paper](https://arxiv.org/abs/2611.06048)] [[Github](https://github.com/Yukinonooo/SVGFaith)] [[Dataset](https://huggingface.co/datasets/Yukinonooo/SVGFaith)] <br>
 - PosterHarness pilot benchmark (12-paper scientific-poster instruction following, 2026) [[Paper](https://arxiv.org/abs/2607.03006)] [[Github / Data](https://github.com/tyy99phy/paper_poster_harness)] <br>
 - LongLongTextBench (bilingual long-form text rendering, MOSS-Image, 2026) [[Paper](https://arxiv.org/abs/2610.23374)] [[Github](https://github.com/OpenMOSS/MOSS-Image)] <br>
 - RealLayoutArena (layout-rich image generation, MOSS-Image, 2026) [[Paper](https://arxiv.org/abs/2610.23374)] [[Github](https://github.com/OpenMOSS/MOSS-Image)] <br>
@@ -64,6 +66,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Slide, Infographic and Structured Editing Benchmarks
 
+- CanvasBench (editable diagram creation, EvoDesign, NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2604.09568)] [[Github](https://github.com/GeminiLight/EvoDesign)] <br>
 - DeckEdit-Bench (shape-level slide editing and preservation, EditPPT, 2026) [[Paper](https://arxiv.org/abs/2608.20381)] [[Dataset](https://huggingface.co/datasets/EditPPT/DECKEDIT-BENCH)] <br>
 - TransEdit-Bench (transparent image editing, Qwen-Image-Layered 1.5, EMNLP 2026) [[Paper](https://aclanthology.org/2026.emnlp-main.2409/)] <br>
 - MDMR-Bench (includes infographic manipulation, NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2610.32459)] [[Github](https://github.com/LHRYANG/MDMR-Bench)] [[Dataset](https://huggingface.co/datasets/MDMR-Bench/MDMR-Bench)] <br>
@@ -81,6 +84,43 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 - SlidesBench (AutoPresent, CVPR 2025) [[Paper](https://arxiv.org/abs/2501.00912)] [[Github / Data](https://github.com/para-lost/AutoPresent)] <br>
 
 ## 2026
+
+**Learning priority-aware controllable poster layout generation** <br>
+*Fuxiang Yang, Wendi Hou, Lei Fan, Tonghua Su, Lingxiao He, Chengzhou Li, Meng Wang, Qianlong Xie, Xingxing Wang, Donglin Di, Xun Yang.* <br>
+Pattern Recognition 179, Part A, Article 113497, 2026 <br>
+**Content-Aware** **LLM-based** [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320326004632)]
+[[DOI](https://doi.org/10.1016/j.patcog.2026.113497)] <br>
+
+**Designing UIs with GenAI: Understanding the Use, Benefits, and Limitations of Prompt-to-Design Generators** <br>
+*Jingzhou Ye, Yao Li, Xueqiang Wang.* <br>
+arXiv 2026, University of Central Florida <br>
+*Interview study of 17 UI designers using prompt-to-design generators.* <br>
+**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.13211)] <br>
+
+**reComposer: Editable Planning for Controllable Image Generation** <br>
+*Susie S. Y. Li, Angie Boggust, Fred Hohman, Donghao Ren, Dominik Moritz, Yannick Assogba.* <br>
+arXiv 2026, Tufts University & Apple <br>
+*Interactive visual-asset creation through editable subject, composition, palette and style plans.* <br>
+**Graphic Design Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2611.12687)] <br>
+
+**LiveWorkspace: Externalizing Visual Understanding as Persistent Shared State for Screenshot-to-Code Agents** <br>
+*Shijun Xiao, Zonghui Yang, Xinrong Chen, Hao Liu, Wensheng Zhang, Yongqiang Tang.* <br>
+arXiv 2026, Nankai University & Institute of Automation, Chinese Academy of Sciences & Peking University & Guangzhou University <br>
+*Screenshot-to-code generation and revision using persistent visual hierarchy and layout relations.* <br>
+**Graphic Design Generation** **Graphic Design Editing** **LLM-based** [[Paper](https://arxiv.org/abs/2611.12112)] <br>
+
+**ScreenProof: Where Is This Screen Wrong? Finding UI Faults Without a Reference** <br>
+*Huiming Sun, Yue Li, Kangning Yang, Ruineng Li, Jie Cai, Lan Fu, Yunwan Fu, Jinlong Li, Jinglin Shen.* <br>
+arXiv 2026, OPPO US Research Center & Cleveland State University & Shanghai Jiao Tong University <br>
+**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.10234)] <br>
+
+**SVGFaith: A Two-Layer Meta-Evaluation of Faithfulness Metrics for Text-to-SVG Generation** <br>
+*Guotao Liang, Haitao Zhou, Biao Liu, Huanxuan Liao, Lingfeng Qiao, Qian-Wen Zhang, Qian Yu, Di Yin, Xing Sun.* <br>
+arXiv 2026, Tencent Youtu Lab & Visual Computing Group, Beijing <br>
+**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.06048)]
+[[Github](https://github.com/Yukinonooo/SVGFaith)]
+[[Dataset](https://huggingface.co/datasets/Yukinonooo/SVGFaith)]
+[[Model](https://huggingface.co/Yukinonooo/SVGFaith-Decomposer)] <br>
 
 **MaterialVellum: Steering Generative AI by Leveraging Expressive Material Affordances to Form Design Constraints** <br>
 *Chu Li, Nicolai Marquardt, Hugo Romat, Ken Hinckley, Nathalie Riche, Kwon Ko, Fanny Chevalier.* <br>
@@ -385,10 +425,12 @@ arXiv 2026, Institute of Software, Chinese Academy of Sciences & University of C
 [[Github](https://github.com/icip-cas/PPTAgent)] <br>
 
 **EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution** <br>
-*Tianfu Wang, Leilei Ding, Ziyang Tao, Yi Zhan, Zhiyuan Ma, Wei Wu, Yuxuan Lei, Junyang Wang, Yin Wu, Yizhao Xu, Hongyuan Zhu, Qi Liu, Nicholas Jing Yuan, Yanyong Zhang, Hui Xiong.* <br>
-NeurIPS 2026 (accepted) <br>
+*Tianfu Wang, Leilei Ding, Ziyang Tao, Yi Zhan, Zhiyuan Ma, Wei Wu, Yuxuan Lei, Junyang Wang, Yizhao Xu, Yin Wu, Zhengyu Hu, Hongyuan Zhu, Nicholas Jing Yuan, Yanyong Zhang, Hui Xiong.* <br>
+NeurIPS 2026 (accepted), The Hong Kong University of Science and Technology (Guangzhou) & University of Science and Technology of China & Peking University & The Hong Kong University of Science and Technology <br>
 **Graphic Design Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2604.09568)]
-[[Github](https://github.com/AuraX-AI/EvoDiagram)]
+[[Github](https://github.com/GeminiLight/EvoDesign)]
+[[Project](https://tianfu.wang/EvoDesign/)]
+[[Earlier repository](https://github.com/AuraX-AI/EvoDiagram)]
 [[Conference](https://neurips.cc/virtual/2026/poster/154437)] <br>
 
 **DECKBench: Benchmarking Multi-Agent Frameworks for Academic Slide Generation and Editing** <br>

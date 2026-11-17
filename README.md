@@ -4,7 +4,7 @@
 
 A curated bibliography of graphic layout generation, content-aware poster design, document layouts and editable graphic design.
 
-**Last updated: 2026-11-11.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-11-17.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 - [Dataset](#dataset)
 - [2026](#2026)
@@ -40,6 +40,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Recent Layout and Graphic Design Datasets
 
+- DesignSpecs (visual design specifications for UI-generating agents, 2026) [[Paper](https://arxiv.org/abs/2611.17713)] [[Dataset](https://huggingface.co/datasets/Jl-wei/DesignSpecs)] <br>
 - LayerEditor-100K (paired instruction-driven edits with ordered RGBA layers, 2026) [[Paper](https://arxiv.org/abs/2610.24738)] <br>
 - MCSketch8K (editable vector assets and compositional layouts, SketchDirector, 2026) [[Paper](https://arxiv.org/abs/2610.41260)] [[Project](https://yiki77.github.io/SketchDirector/)] <br>
 - OmniDocLayout-1M (CVPR 2026) [[Paper](https://arxiv.org/abs/2510.26213)] [[Github](https://github.com/opendatalab/OmniDocLayout)] [[Download](https://huggingface.co/datasets/khr0516/OmniDocLayout-1M)] <br>
@@ -50,6 +51,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Design Evaluation and Scientific Poster Benchmarks
 
+- DesignTaste (poster and visual-design briefs derived from award-winning works, 2026) [[Paper](https://arxiv.org/abs/2611.16442)] [[Github](https://github.com/ArtArk-AI/DesignTaste)] [[Dataset](https://huggingface.co/datasets/ArtArk/DesignTaste)] <br>
 - ScreenProof (reference-free UI layout and style fault detection, 2026) [[Paper](https://arxiv.org/abs/2611.10234)] <br>
 - SVGFaith-Diagnostic / SVGFaith-Arena (text-to-SVG faithfulness, 2026) [[Paper](https://arxiv.org/abs/2611.06048)] [[Github](https://github.com/Yukinonooo/SVGFaith)] [[Dataset](https://huggingface.co/datasets/Yukinonooo/SVGFaith)] <br>
 - PosterHarness pilot benchmark (12-paper scientific-poster instruction following, 2026) [[Paper](https://arxiv.org/abs/2607.03006)] [[Github / Data](https://github.com/tyy99phy/paper_poster_harness)] <br>
@@ -66,6 +68,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Slide, Infographic and Structured Editing Benchmarks
 
+- AnimWeb-Bench (animated webpage reconstruction and layout fidelity, 2026) [[Paper](https://arxiv.org/abs/2611.09769)] [[Project](https://starry1001.github.io/AnimWeb-Bench-website/)] [[Github](https://github.com/starry1001/AnimWeb)] [[Dataset](https://huggingface.co/datasets/starry1001/AnimWeb-Bench/tree/main)] <br>
 - CanvasBench (editable diagram creation, EvoDesign, NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2604.09568)] [[Github](https://github.com/GeminiLight/EvoDesign)] <br>
 - DeckEdit-Bench (shape-level slide editing and preservation, EditPPT, 2026) [[Paper](https://arxiv.org/abs/2608.20381)] [[Dataset](https://huggingface.co/datasets/EditPPT/DECKEDIT-BENCH)] <br>
 - TransEdit-Bench (transparent image editing, Qwen-Image-Layered 1.5, EMNLP 2026) [[Paper](https://aclanthology.org/2026.emnlp-main.2409/)] <br>
@@ -84,6 +87,36 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 - SlidesBench (AutoPresent, CVPR 2025) [[Paper](https://arxiv.org/abs/2501.00912)] [[Github / Data](https://github.com/para-lost/AutoPresent)] <br>
 
 ## 2026
+
+**DesignSpecs: A DESIGN.md Dataset of Visual Design Specifications for AI Agents** <br>
+*Jialiang Wei, Walid Maalej.* <br>
+arXiv 2026, Hasso Plattner Institute, University of Potsdam <br>
+*Visual design specifications and tokens for UI-generating agents.* <br>
+**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.17713)]
+[[Dataset](https://huggingface.co/datasets/Jl-wei/DesignSpecs)] <br>
+
+**DesignTaste: Benchmarking AI-Generated Visual Design Against Award-Winning Works** <br>
+*Zhou Chen, JiaXiang Li, DanYing Pan, Ye Li, TianRui Yang, EnBao Zhang, YaNan Xiao, LiXin Sun, Anqi Liu, Dong Zhao, JianYuan Li, YuanYuan Ding, Kai Kong, Xinwen Xu, HuiTang Du, Min Zhou, Zhiqiang Li.* <br>
+arXiv 2026, Research Institute of Tsinghua University in Shenzhen & Academy of Arts & Design, Tsinghua University <br>
+**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.16442)]
+[[Github](https://github.com/ArtArk-AI/DesignTaste)]
+[[Dataset](https://huggingface.co/datasets/ArtArk/DesignTaste)] <br>
+
+**Lang-SVG: Hierarchical Image Vectorization with Language Priors** <br>
+*Xi Liu, Chaoyi Zhou, Run Wang, Jiaang Li, Feng Luo, Junxiang Huang, Siyu Huang.* <br>
+NeurIPS 2026 (accepted), Clemson University & University of Copenhagen & eBay <br>
+**Graphic Design Editing** **LLM-based** [[Paper](https://arxiv.org/abs/2611.15941)]
+[[Conference](https://neurips.cc/virtual/2026/poster/155278)]
+[[Project](https://xiliu8006.github.io/Lang-SVG/)] <br>
+
+**AnimWeb-Bench: Benchmarking Animated Webpage Code Generation from Videos** <br>
+*Zhongyi Zhang, Jingyu Xiao, Shuqing Li, Michael R. Lyu.* <br>
+arXiv 2026, The Chinese University of Hong Kong <br>
+*Complete webpage reconstruction, evaluated for static appearance, layout and animation fidelity.* <br>
+**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.09769)]
+[[Project](https://starry1001.github.io/AnimWeb-Bench-website/)]
+[[Github](https://github.com/starry1001/AnimWeb)]
+[[Dataset](https://huggingface.co/datasets/starry1001/AnimWeb-Bench/tree/main)] <br>
 
 **Learning priority-aware controllable poster layout generation** <br>
 *Fuxiang Yang, Wendi Hou, Lei Fan, Tonghua Su, Lingxiao He, Chengzhou Li, Meng Wang, Qianlong Xie, Xingxing Wang, Donglin Di, Xun Yang.* <br>

@@ -40,6 +40,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Recent Layout and Graphic Design Datasets
 
+- GlyphAtlas-Data-1.5M (scene-text images for layout-conditioned text generation and editing, 2026) [[Paper](https://arxiv.org/abs/2611.20192)] [[Dataset](https://huggingface.co/datasets/Fr0zencr4nE/GlyphAtlas-Data-1.5M)] <br>
 - DesignSpecs (visual design specifications for UI-generating agents, 2026) [[Paper](https://arxiv.org/abs/2611.17713)] [[Dataset](https://huggingface.co/datasets/Jl-wei/DesignSpecs)] <br>
 - LayerEditor-100K (paired instruction-driven edits with ordered RGBA layers, 2026) [[Paper](https://arxiv.org/abs/2610.24738)] <br>
 - MCSketch8K (editable vector assets and compositional layouts, SketchDirector, 2026) [[Paper](https://arxiv.org/abs/2610.41260)] [[Project](https://yiki77.github.io/SketchDirector/)] <br>
@@ -51,6 +52,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Design Evaluation and Scientific Poster Benchmarks
 
+- TD-Bench (UI design quality, responsive layout and iterative page editing, 2026) [[Paper](https://arxiv.org/abs/2611.20612)] <br>
 - DesignTaste (poster and visual-design briefs derived from award-winning works, 2026) [[Paper](https://arxiv.org/abs/2611.16442)] [[Github](https://github.com/ArtArk-AI/DesignTaste)] [[Dataset](https://huggingface.co/datasets/ArtArk/DesignTaste)] <br>
 - ScreenProof (reference-free UI layout and style fault detection, 2026) [[Paper](https://arxiv.org/abs/2611.10234)] <br>
 - SVGFaith-Diagnostic / SVGFaith-Arena (text-to-SVG faithfulness, 2026) [[Paper](https://arxiv.org/abs/2611.06048)] [[Github](https://github.com/Yukinonooo/SVGFaith)] [[Dataset](https://huggingface.co/datasets/Yukinonooo/SVGFaith)] <br>
@@ -87,6 +89,22 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 - SlidesBench (AutoPresent, CVPR 2025) [[Paper](https://arxiv.org/abs/2501.00912)] [[Github / Data](https://github.com/para-lost/AutoPresent)] <br>
 
 ## 2026
+
+**Learning Design Taste through Verifiable Synthetic Environments and Agentic Reinforcement Learning** <br>
+*Sujay choubey, Siddhant Saxena, Sarthak Kapil, Suhas Motwani.* <br>
+arXiv 2026 <br>
+*Agentic reinforcement learning for UI composition, typography, spacing and responsive page editing; introduces TD-Bench.* <br>
+**Graphic Design Generation** **Graphic Design Editing** **LLM-based** **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.20612)] <br>
+
+**GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis** <br>
+*Luozheng Qin, Changhai Zhou, Yiyi Zhou.* <br>
+arXiv 2026, Xiamen University & Fudan University <br>
+*Layout-conditioned scene text generation and editing with separate stroke references and a supplied glyph layout.* <br>
+**Graphic Design Generation** **Graphic Design Editing** [[Paper](https://arxiv.org/abs/2611.20192)]
+[[Project](https://fr0zencrane.github.io/project-glyphatlas/)]
+[[Github](https://github.com/Fr0zenCrane/GlyphAtlas)]
+[[Model](https://huggingface.co/Fr0zencr4nE/GlyphAtlas)]
+[[Dataset](https://huggingface.co/datasets/Fr0zencr4nE/GlyphAtlas-Data-1.5M)] <br>
 
 **DesignSpecs: A DESIGN.md Dataset of Visual Design Specifications for AI Agents** <br>
 *Jialiang Wei, Walid Maalej.* <br>

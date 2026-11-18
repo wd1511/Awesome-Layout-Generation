@@ -4,7 +4,7 @@
 
 A curated bibliography of graphic layout generation, content-aware poster design, document layouts and editable graphic design.
 
-**Last updated: 2026-11-17.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-11-18.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 - [Dataset](#dataset)
 - [2026](#2026)
@@ -40,6 +40,8 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Recent Layout and Graphic Design Datasets
 
+- SciGA-145k (graphical-abstract selection, recommendation and generation research, CVPR Findings 2026) [[Paper](https://arxiv.org/abs/2507.02212)] [[Project](https://iyatomilab.github.io/SciGA/)] [[Dataset](https://huggingface.co/datasets/iyatomilab/SciGA)] <br>
+- SciFormaData-700K (scientific-diagram generation pairs and editing triplets, SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2607.18091)] [[Dataset](https://huggingface.co/datasets/microsoft/SciFormaData-700K)] <br>
 - GlyphAtlas-Data-1.5M (scene-text images for layout-conditioned text generation and editing, 2026) [[Paper](https://arxiv.org/abs/2611.20192)] [[Dataset](https://huggingface.co/datasets/Fr0zencr4nE/GlyphAtlas-Data-1.5M)] <br>
 - DesignSpecs (visual design specifications for UI-generating agents, 2026) [[Paper](https://arxiv.org/abs/2611.17713)] [[Dataset](https://huggingface.co/datasets/Jl-wei/DesignSpecs)] <br>
 - LayerEditor-100K (paired instruction-driven edits with ordered RGBA layers, 2026) [[Paper](https://arxiv.org/abs/2610.24738)] <br>
@@ -70,6 +72,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Slide, Infographic and Structured Editing Benchmarks
 
+- SciFormaBench-2K (component, arrow and text fidelity in scientific diagrams, SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2607.18091)] [[Benchmark](https://huggingface.co/datasets/microsoft/SciFormaBench)] <br>
 - AnimWeb-Bench (animated webpage reconstruction and layout fidelity, 2026) [[Paper](https://arxiv.org/abs/2611.09769)] [[Project](https://starry1001.github.io/AnimWeb-Bench-website/)] [[Github](https://github.com/starry1001/AnimWeb)] [[Dataset](https://huggingface.co/datasets/starry1001/AnimWeb-Bench/tree/main)] <br>
 - CanvasBench (editable diagram creation, EvoDesign, NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2604.09568)] [[Github](https://github.com/GeminiLight/EvoDesign)] <br>
 - DeckEdit-Bench (shape-level slide editing and preservation, EditPPT, 2026) [[Paper](https://arxiv.org/abs/2608.20381)] [[Dataset](https://huggingface.co/datasets/EditPPT/DECKEDIT-BENCH)] <br>
@@ -89,6 +92,41 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 - SlidesBench (AutoPresent, CVPR 2025) [[Paper](https://arxiv.org/abs/2501.00912)] [[Github / Data](https://github.com/para-lost/AutoPresent)] <br>
 
 ## 2026
+
+**SciGA: A Comprehensive Dataset for Designing Graphical Abstracts in Academic Papers** <br>
+*Takuro Kawada, Shunsuke Kitada, Sota Nemoto, Hitoshi Iyatomi.* <br>
+CVPR Findings 2026, Hosei University <br>
+**Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2507.02212)]
+[[Proceedings](https://openaccess.thecvf.com/content/CVPR2026F/html/Kawada_SciGA_A_Comprehensive_Dataset_for_Designing_Graphical_Abstracts_in_Academic_CVPRF_2026_paper.html)]
+[[Project](https://iyatomilab.github.io/SciGA/)]
+[[Github](https://github.com/IyatomiLab/SciGA)]
+[[Dataset](https://huggingface.co/datasets/iyatomilab/SciGA)] <br>
+
+**StructSVG: Tree-Graph Guided Multi-Agent Text-to-SVG Generation** <br>
+*Zixun Sun, Yubo Dong, Hehe Fan.* <br>
+SIGGRAPH Asia 2026 Technical Papers (accepted), Zhejiang University <br>
+**Graphic Design Generation** **Graphic Design Editing** **LLM-based** [[Proceedings](https://doi.org/10.1145/3829340.3842365)]
+[[Conference](https://sa2026.conference-schedule.org/presentation/?id=papers_2622&sess=sess149)]
+[[Github](https://github.com/sealost/StructSVG)] <br>
+
+**GenGA: Editable and Data-Grounded Graphical Abstract Generation for Academic Papers** <br>
+*Takuro Kawada, Shunsuke Kitada, Hitoshi Iyatomi.* <br>
+arXiv 2026, Hosei University <br>
+**Graphic Design Generation** **Graphic Design Editing** **LLM-based** [[Paper](https://arxiv.org/abs/2608.05478)]
+[[Author Page](https://shunk031.me/publication/kawada2026genga/)] <br>
+
+**SciForma: Structure-Faithful Generation of Scientific Diagrams** <br>
+*Yuxuan Luo, Peng Zhang, Xinjie Zhang, Xun Guo, Zhouhui Lian, Yan Lu.* <br>
+SIGGRAPH Asia 2026 Technical Papers (accepted), Peking University & Zhejiang University & Microsoft Research Asia <br>
+**Graphic Design Generation** **Graphic Design Editing** **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2607.18091)]
+[[Proceedings](https://doi.org/10.1145/3829340.3842172)]
+[[Conference](https://sa2026.conference-schedule.org/presentation/?id=papers_1149&sess=sess149)]
+[[Project](https://microsoft.github.io/SciForma/)]
+[[Github](https://github.com/microsoft/SciForma)]
+[[Model (9B)](https://huggingface.co/LoYuXrqw/SciForma-9B)]
+[[Model (Base)](https://huggingface.co/LoYuXrqw/SciForma-Base)]
+[[Dataset](https://huggingface.co/datasets/microsoft/SciFormaData-700K)]
+[[Benchmark](https://huggingface.co/datasets/microsoft/SciFormaBench)] <br>
 
 **Learning Design Taste through Verifiable Synthetic Environments and Agentic Reinforcement Learning** <br>
 *Sujay choubey, Siddhant Saxena, Sarthak Kapil, Suhas Motwani.* <br>

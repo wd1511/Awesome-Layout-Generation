@@ -4,7 +4,7 @@
 
 A curated bibliography of graphic layout generation, content-aware poster design, document layouts and editable graphic design.
 
-**Last updated: 2026-11-18.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
+**Last updated: 2026-11-20.** New entries are checked against arXiv records and official proceedings or author project pages. Unconfirmed publication venues remain labeled as arXiv; affiliations and additional resource links are included when verified. This is a curated collection, not an exhaustive index.
 
 - [Dataset](#dataset)
 - [2026](#2026)
@@ -54,6 +54,7 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Design Evaluation and Scientific Poster Benchmarks
 
+- PROS-Bench (source-grounded diagnosis and user-governed repair of editable scientific posters, 2026) [[Paper](https://arxiv.org/abs/2609.01813)] <br>
 - TD-Bench (UI design quality, responsive layout and iterative page editing, 2026) [[Paper](https://arxiv.org/abs/2611.20612)] <br>
 - DesignTaste (poster and visual-design briefs derived from award-winning works, 2026) [[Paper](https://arxiv.org/abs/2611.16442)] [[Github](https://github.com/ArtArk-AI/DesignTaste)] [[Dataset](https://huggingface.co/datasets/ArtArk/DesignTaste)] <br>
 - ScreenProof (reference-free UI layout and style fault detection, 2026) [[Paper](https://arxiv.org/abs/2611.10234)] <br>
@@ -72,6 +73,8 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 
 ### Slide, Infographic and Structured Editing Benchmarks
 
+- MotionGraphicsBench (SVG motion editing with programmatic spatial, appearance and temporal verification, 2026) [[Paper](https://arxiv.org/abs/2611.10592)] [[Project](https://motion-graphics-bench.github.io/)] <br>
+- DrawAI-Bench (raster-to-editable reconstruction of figures, slides, posters and diagrams, 2026) [[Paper](https://arxiv.org/abs/2608.00548)] [[Project](https://drawai.renaissancemind.ai/)] [[Github](https://github.com/Renaissance-Mind/DrawAI)] [[Dataset (Lite)](https://huggingface.co/datasets/caopu/DrawAI-Bench-Lite)] <br>
 - SciFormaBench-2K (component, arrow and text fidelity in scientific diagrams, SIGGRAPH Asia 2026, accepted) [[Paper](https://arxiv.org/abs/2607.18091)] [[Benchmark](https://huggingface.co/datasets/microsoft/SciFormaBench)] <br>
 - AnimWeb-Bench (animated webpage reconstruction and layout fidelity, 2026) [[Paper](https://arxiv.org/abs/2611.09769)] [[Project](https://starry1001.github.io/AnimWeb-Bench-website/)] [[Github](https://github.com/starry1001/AnimWeb)] [[Dataset](https://huggingface.co/datasets/starry1001/AnimWeb-Bench/tree/main)] <br>
 - CanvasBench (editable diagram creation, EvoDesign, NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2604.09568)] [[Github](https://github.com/GeminiLight/EvoDesign)] <br>
@@ -92,6 +95,39 @@ Content-Agnostic and Content-Aware describe task conditioning; LLM-based describ
 - SlidesBench (AutoPresent, CVPR 2025) [[Paper](https://arxiv.org/abs/2501.00912)] [[Github / Data](https://github.com/para-lost/AutoPresent)] <br>
 
 ## 2026
+
+**Sightline: Long-Window Speculative Decoding for Fast SVG Generation** <br>
+*Yanchao Li, Ben Gao, Jiaqing Xie, Yusu Zhang, Beilun Wang, Yanbo Wang, Xiaohua Xu, Nanqing Dong, Tianfan Fu, Zhongyu Huang.* <br>
+arXiv 2026, Nanjing University & Shanghai Artificial Intelligence Laboratory & Wuhan University & Fudan University & Shanghai Jiao Tong University & Southeast University & North University of China & University of Science and Technology of China & Shanghai Innovation Institute <br>
+*Lossless decoding acceleration for text-to-SVG and image-to-SVG generation.* <br>
+**Graphic Design Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2611.23807)]
+[[Github](https://github.com/LiZaiyuan0619/Sightline)] <br>
+
+**From Restoration to Redrawing: Revitalizing Ancient Chinese Characters by SVG Code Generation and Editing** <br>
+*Weiguang Zhang, Linhua Dong, Bin Dong, Shanshan Jiang, Maizhen Ning, Xiaoqiang Kang, Kun Zhang, Hao Xu, Xiaowei Huang, Wei Wang, Kaizhu Huang, Qiufeng Wang.* <br>
+arXiv 2026, University of Liverpool & Xi'an Jiaotong-Liverpool University & Ricoh Software Research Center Beijing Co., Ltd. & Tencent & Duke Kunshan University <br>
+*ReDraw generates editable SVG paths for historical Chinese glyphs and completes missing strokes while preserving observed paths.* <br>
+**Graphic Design Generation** **Graphic Design Editing** **LLM-based** [[Paper](https://arxiv.org/abs/2611.24084)] <br>
+
+**MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification** <br>
+*Jiaju Ma, Ashvini Kumar Jindal, Chuhua Wang, Sumithra Bhakthavatsalam.* <br>
+arXiv 2026, Stanford University & Figma <br>
+*Evaluates motion edits to supplied static SVG graphics through programmatic checks of spatial, appearance and temporal requirements.* <br>
+**Graphic Design Editing** **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.10592)]
+[[Project](https://motion-graphics-bench.github.io/)] <br>
+
+**DrawAI: Agentic Benchmark and Workflow for Making Raster Images Editable** <br>
+*Pu Cao, Qingye Kong, Xuedan Yin, Xuekun Zhao, Rupeng Yan, Qing Song, Yao Zhang, Lu Yang.* <br>
+arXiv 2026, Beijing University of Posts and Telecommunications & Tsinghua University & Beijing Institute of Technology <br>
+**Graphic Design Editing** **LLM-based** **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2608.00548)]
+[[Project](https://drawai.renaissancemind.ai/)]
+[[Github](https://github.com/Renaissance-Mind/DrawAI)]
+[[Dataset (Lite)](https://huggingface.co/datasets/caopu/DrawAI-Bench-Lite)] <br>
+
+**Beyond Instruction-Driven Editing: Source-Grounded Problem Discovery with User-Governed Repair for Scientific Posters** <br>
+*Xingda Lyu, Honglin Lu, Xinye Luo, Shiqi Yang.* <br>
+arXiv 2026, University of Washington <br>
+**Graphic Design Editing** **LLM-based** **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2609.01813)] <br>
 
 **SciGA: A Comprehensive Dataset for Designing Graphical Abstracts in Academic Papers** <br>
 *Takuro Kawada, Shunsuke Kitada, Sota Nemoto, Hitoshi Iyatomi.* <br>

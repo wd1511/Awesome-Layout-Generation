@@ -56,11 +56,12 @@
 
 ### Slide, Infographic and Structured Editing Benchmarks
 
+- Beagle+ (canonicalized chart SVGs for reconstruction and editing, Chart2SVG, IEEE VIS 2026) [[Paper](https://arxiv.org/abs/2608.26544)] [[Dataset](https://huggingface.co/datasets/syslocker/Beagle_Plus)] <br>
 - SlidesBench (AutoPresent, CVPR 2025) [[Paper](https://arxiv.org/abs/2501.00912)] [[Github / Data](https://github.com/para-lost/AutoPresent)] <br>
-- IGenBench (text-to-infographic reliability, 2026) [[Paper](https://arxiv.org/abs/2601.04498)] [[Project](https://igen-bench.vercel.app/)] <br>
+- IGenBench (text-to-infographic reliability, ACL 2026) [[Paper](https://arxiv.org/abs/2601.04498)] [[Project](https://igen-bench.vercel.app/)] <br>
 - PresentBench (2026) [[Paper](https://arxiv.org/abs/2603.07244)] [[Project](https://presentbench.github.io)] <br>
 - SlidesGen-Bench / Slides-Align1.5k (EMNLP 2026) [[Paper](https://arxiv.org/abs/2601.09487)] [[Github / Data](https://github.com/YunqiaoYang/SlidesGen-Bench)] <br>
-- DECKBench (2026) [[Paper](https://arxiv.org/abs/2602.13318)] [[Github / Data](https://github.com/morgan-heisler/DeckBench)] <br>
+- DECKBench (KDD 2026) [[Paper](https://arxiv.org/abs/2602.13318)] [[Github / Data](https://github.com/morgan-heisler/DeckBench)] <br>
 - CanvasBench (editable diagram creation, EvoDesign, NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2604.09568)] [[Github](https://github.com/GeminiLight/EvoDesign)] <br>
 - DrawAI-Bench (raster-to-editable reconstruction of figures, slides, posters and diagrams, 2026) [[Paper](https://arxiv.org/abs/2608.00548)] [[Project](https://drawai.renaissancemind.ai/)] [[Github](https://github.com/Renaissance-Mind/DrawAI)] [[Dataset (Lite)](https://huggingface.co/datasets/caopu/DrawAI-Bench-Lite)] <br>
 - VeriEdit-Bench (structured-asset editing, 2026) [[Paper](https://arxiv.org/abs/2610.04381)] [[Github / Data](https://github.com/flare200020/VeriEdit-Bench)] <br>
@@ -95,6 +96,39 @@ arXiv 2026, University of Liverpool & Xi'an Jiaotong-Liverpool University & Rico
 arXiv 2026, Stanford University & Figma <br>
 **Graphic Design Editing** **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.10592)]
 [[Project](https://motion-graphics-bench.github.io/)] <br>
+
+**Chart2SVG: Editable SVG Generation from Raster Chart Images** <br>
+*Jinning Cui, Lu Chen, Haoyan Shi, Yue He, Chenglong Wang, Mengyu Zhou, Weidong Huang, Yunhai Wang.* <br>
+IEEE VIS 2026, Renmin University of China & Zhejiang University & Shandong University & Microsoft Research & Alibaba & University of Technology Sydney <br>
+**Graphic Design Editing** **LLM-based** [[Paper](https://arxiv.org/abs/2608.26544)]
+[[Conference](https://www.ieeevis.org/year/2026/program/content/4d0898fd-252b-43eb-b4bd-365101ffaa28/)]
+[[Project](https://www.yunhaiwang.net/vis2026/Chart2SVG/index.html)]
+[[Github](https://github.com/JinningCui/Chart2SVG)]
+[[Dataset](https://huggingface.co/datasets/syslocker/Beagle_Plus)] <br>
+
+**Same Pixels, Different Documents: Measuring Part-Level Editability in Image Vectorization** <br>
+*Boheng Zhu, Zehua Wang, Wei Chen, Ming-Hao Lin.* <br>
+arXiv 2026, China University of Mining and Technology & The University of British Columbia & Concealed Studio <br>
+**Graphic Design Editing** **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2611.10088)] <br>
+
+**Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback** <br>
+*Guotao Liang, Zhangcheng Wang, Juncheng Hu, Haitao Zhou, Ziteng Xue, Jing Zhang, Dong Xu, Qian Yu.* <br>
+ECCV 2026, Beihang University & The University of Hong Kong & 4Paradigm <br>
+**Graphic Design Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2604.20730)]
+[[Proceedings](https://doi.org/10.1007/978-3-032-37035-8_13)]
+[[Project](https://yukinonooo.github.io/RenderInTheLoopProject/)] <br>
+
+**Text-Conditioned Background Generation for Editable Multi-Layer Documents** <br>
+*Taewon Kang, K. J. Joseph, Chris Tensmeyer, Jihyung Kil, Wanrong Zhu, Ming C. Lin, Vlad I. Morariu.* <br>
+ECCV 2026, University of Maryland, College Park & Adobe Research <br>
+**Content-Aware** **Graphic Design Editing** [[Paper](https://arxiv.org/abs/2512.17151)]
+[[Proceedings](https://doi.org/10.1007/978-3-032-37255-0_7)] <br>
+
+**LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition** <br>
+*Vlad-Constantin Lungu-Stan, Ionuț Mironică, Mariana-Iuliana Georgescu.* <br>
+CVPR Workshops (CVEU) 2026, Adobe Research <br>
+**Graphic Design Generation** **Graphic Design Editing** [[Paper](https://arxiv.org/abs/2603.17965)]
+[[Proceedings](https://openaccess.thecvf.com/content/CVPR2026W/CVEU/html/Lungu-Stan_LaDe_Unified_Multi-Layered_Graphic_Media_Generation_and_Decomposition_CVPRW_2026_paper.html)] <br>
 
 **DrawAI: Agentic Benchmark and Workflow for Making Raster Images Editable** <br>
 *Pu Cao, Qingye Kong, Xuedan Yin, Xuekun Zhao, Rupeng Yan, Qing Song, Yao Zhang, Lu Yang.* <br>
@@ -472,15 +506,17 @@ arXiv 2026, La Trobe University & Peking University <br>
 [[Github](https://github.com/AIGeeksGroup/PresentAgent-2)]
 [[Project](https://aigeeksgroup.github.io/PresentAgent-2)] <br>
 
-**ECHO: Explainable Co-editing with Human-in-the-loop Operations for Presentation Refinement** <br>
+**ECHO: Explainable Co-editing with Human-in-the-loop Operations for Presentation Slide Refinement** <br>
 *Yu Fu, Yongqi Kang, Yujia Zhou, Yong Zhao.* <br>
-arXiv 2026, Sichuan University <br>
-**Graphic Design Editing** **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2606.09851)] <br>
+ICMI 2026, Sichuan University <br>
+**Graphic Design Editing** **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2606.09851)]
+[[Proceedings](https://doi.org/10.1145/3776574.3831120)] <br>
 
 **Narrative-Driven Paper-to-Slide Generation via ArcDeck** <br>
 *Tarik Can Ozden, Sachidanand VS, Furkan Horoz, Ozgur Kara, Junho Kim, James Matthew Rehg.* <br>
-arXiv 2026, University of Illinois Urbana-Champaign & Middle East Technical University <br>
+ECCV 2026, University of Illinois Urbana-Champaign & Middle East Technical University <br>
 **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2604.11969)]
+[[Proceedings](https://doi.org/10.1007/978-3-032-37038-9_29)]
 [[Github](https://github.com/RehgLab/ArcDeck)]
 [[Project](https://arcdeck.org/)] <br>
 
@@ -492,8 +528,9 @@ arXiv 2026, The Hong Kong University of Science and Technology (Guangzhou) & Nan
 
 **Design First, Code Later: Aesthetically Pleasing Template-Free Slides Generation** <br>
 *Zhiyao Cui, Chenxu Wang, Shuyue Hu, Yiqun Zhang, Wenqi Shao, Qiaosheng Zhang, Zhen Wang.* <br>
-arXiv 2026, Northwestern Polytechnical University & Shanghai Artificial Intelligence Laboratory & Shanghai Innovation Institution & Fudan University <br>
+Findings of ACL 2026, Northwestern Polytechnical University & Shanghai Artificial Intelligence Laboratory & Shanghai Innovation Institution & Fudan University <br>
 **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2605.26451)]
+[[Proceedings](https://aclanthology.org/2026.findings-acl.1524/)]
 [[Github](https://github.com/sxswz213/DeepSlides)] <br>
 
 **Learning to Present: Inverse Specification Rewards for Agentic Slide Generation** <br>
@@ -517,8 +554,9 @@ CHI 2026, Fudan University & The University of Hong Kong & University of Vienna 
 
 **DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation** <br>
 *Hao Zheng, Guozhao Mo, Xinru Yan, Qianhao Yuan, Wenkai Zhang, Xuanang Chen, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun.* <br>
-arXiv 2026, Institute of Software, Chinese Academy of Sciences & University of Chinese Academy of Sciences <br>
+Findings of ACL 2026, Institute of Software, Chinese Academy of Sciences & University of Chinese Academy of Sciences <br>
 **Scientific Poster / Slide Generation** **LLM-based** [[Paper](https://arxiv.org/abs/2602.22839)]
+[[Proceedings](https://aclanthology.org/2026.findings-acl.1578/)]
 [[Github](https://github.com/icip-cas/PPTAgent)] <br>
 
 **EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution** <br>
@@ -532,8 +570,9 @@ NeurIPS 2026 (accepted), The Hong Kong University of Science and Technology (Gua
 
 **DECKBench: Benchmarking Multi-Agent Frameworks for Academic Slide Generation and Editing** <br>
 *Daesik Jang, Morgan Lindsay Heisler, Linzi Xing, Yifei Li, Edward Wang, Ying Xiong, Yong Zhang, Zhenan Fan.* <br>
-arXiv 2026, Huawei Technologies Canada & The University of British Columbia <br>
+KDD 2026, Huawei Technologies Canada & The University of British Columbia <br>
 **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2602.13318)]
+[[Proceedings](https://doi.org/10.1145/3770855.3817525)]
 [[Github](https://github.com/morgan-heisler/DeckBench)] <br>
 
 **From Dead Pixels to Editable Slides: Infographic Reconstruction into Native Google Slides via Vision-Language Region Understanding** <br>
@@ -556,8 +595,9 @@ EMNLP 2026, The Chinese University of Hong Kong & SenseTime Research & CPII unde
 
 **IGenBench: Benchmarking the Reliability of Text-to-Infographic Generation** <br>
 *Yinghao Tang, Xueding Liu, Boyuan Zhang, Tingfeng Lan, Yupeng Xie, Jiale Lao, Yiyao Wang, Haoxuan Li, Tingting Gao, Bo Pan, Luoxuan Weng, Xiuqi Huang, Minfeng Zhu, Yingchaojie Feng, Yuyu Luo, Wei Chen.* <br>
-arXiv 2026, Zhejiang University & University of Electronic Science and Technology of China & University of Virginia & The Hong Kong University of Science and Technology (Guangzhou) & Cornell University & National University of Singapore <br>
+ACL 2026, Zhejiang University & University of Electronic Science and Technology of China & University of Virginia & The Hong Kong University of Science and Technology (Guangzhou) & Cornell University & National University of Singapore <br>
 **Dataset / Evaluation** [[Paper](https://arxiv.org/abs/2601.04498)]
+[[Proceedings](https://aclanthology.org/2026.acl-long.1713/)]
 [[Project](https://igen-bench.vercel.app/)] <br>
 
 **i-Design: Step-by-Step Graphic Layout Design with Progressive Aesthetic Policy Optimization** <br>
@@ -702,8 +742,9 @@ arXiv 2026, CyberAgent, Tokyo, Japan <br>
 
 **ReContraster: Making Your Posters Stand Out with Regional Contrast** <br>
 *Peixuan Zhang, Zijian Jia, Ziqi Cai, Shuchen Weng, Si Li, Boxin Shi.* <br>
-arXiv 2026, State Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University & National Engineering Research Center of Visual Technology, School of Computer Science, Peking University & Beijing Academy of Artificial Intelligence & School of Artificial Intelligence, Beijing University of Posts and Telecommunications <br>
-**Graphic Design Editing** [[Paper](https://arxiv.org/abs/2604.10442)] <br>
+ACL 2026, State Key Laboratory for Multimedia Information Processing, School of Computer Science, Peking University & National Engineering Research Center of Visual Technology, School of Computer Science, Peking University & Beijing Academy of Artificial Intelligence & School of Artificial Intelligence, Beijing University of Posts and Telecommunications <br>
+**Graphic Design Editing** [[Paper](https://arxiv.org/abs/2604.10442)]
+[[Proceedings](https://aclanthology.org/2026.acl-long.98/)] <br>
 
 **GAN-based Domain Adaptation for Image-aware Layout Generation in Advertising Poster Design** <br>
 *Chenchen Xu, Min Zhou, Tiezheng Ge, Weiwei Xu.* <br>
@@ -1004,8 +1045,9 @@ arXiv 2025, Intelligent Creation Lab, ByteDance & Fudan University <br>
 
 **CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design** <br>
 *Najmeh Forouzandehmehr, Reza Yousefi Maragheh, Sriram Kollipara, Kai Zhao, Topojoy Biswas, Evren Korpeoglu, Kannan Achan.* <br>
-arXiv 2025, Walmart Global Tech <br>
-**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2506.21934)] <br>
+arXiv 2025 (presented at the SIGIR 2025 GENNEXT Workshop), Walmart Global Tech <br>
+**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2506.21934)]
+[[Workshop paper](https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_5.pdf)] <br>
 
 **CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation** <br>
 *Dexiang Hong, Zhao Zhang, Weidong Chen, Yutao Cheng, Maoke Yang, Gonglei Shi, Hui Zhang, Zhendong Mao.* <br>
@@ -1171,8 +1213,9 @@ AAAI 2025, OPPO AI Center & CUHK Shenzhen <br>
 
 **VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction** <br>
 *Jiahao Zhang, Ryota Yoshihashi, Shunsuke Kitada, Atsuki Osanai, Yuta Nakashima.* <br>
-arXiv 2024, Osaka University & LY Corporation <br>
-**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2412.04237)] <br>
+arXiv 2024 (non-refereed poster at MIRU 2025), Osaka University & LY Corporation <br>
+**Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2412.04237)]
+[[Presentation record](https://shunk031.me/publication/zhang2025miru/)] <br>
 
 **DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation** <br>
 *Zhaoxing Gan, Guangnan Ye.* <br>
@@ -1204,8 +1247,9 @@ arXiv 2024, CyberAgent <br>
 
 **LayoutDiT: Exploring Content-Graphic Balance in Layout Generation with Diffusion Transformer** <br>
 *Yu Li, Yifan Chen, Gongye Liu, Fei Yin, Qingyan Bai, Jie Wu, Hongfa Wang, Ruihang Chu, Yujiu Yang.* <br>
-arXiv 2024, Tsinghua University & Tencent & HKUST <br>
-**Content-Aware** [[Paper](https://arxiv.org/abs/2407.15233)] <br>
+IEEE Transactions on Multimedia 2026, Tsinghua University & Tencent & HKUST <br>
+**Content-Aware** [[Paper](https://arxiv.org/abs/2407.15233)]
+[[Journal](https://doi.org/10.1109/TMM.2026.3724357)] <br>
 
 **SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters** <br>
 *Shohei Tanaka, Hao Wang, Yoshitaka Ushiku.* <br>
@@ -1234,8 +1278,9 @@ CVPR 2024 Workshops, CyberAgent <br>
 
 **PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM** <br>
 *Tao Yang, Yingmin Luo, Zhongang Qi, Yang Wu, Ying Shan, Chang Wen Chen.* <br>
-arXiv 2024, Tencent PCG <br>
+IEEE Transactions on Multimedia 2026, Tencent PCG <br>
 **Content-Aware** **LLM-based** [[Paper](https://arxiv.org/abs/2406.02884)]
+[[Journal](https://doi.org/10.1109/TMM.2026.3753095)]
 [[Project](https://huggingface.co/spaces/posterllava/PosterLLaVA)]
 [[Github](https://github.com/posterllava/PosterLLaVA)] <br>
 

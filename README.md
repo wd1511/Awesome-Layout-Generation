@@ -74,6 +74,8 @@ Selected papers on graphic layout generation, poster design, document layouts, a
 - [VisEditBench: A Benchmark for Vector-Format Diagram Editing with Visual Instructions](https://openreview.net/forum?id=e4d9v8gOoV) · NeurIPS 2026 (accepted)
 - [Qwen-Image-Layered 1.5: Unified Image Generation and Editing with Native Transparency Awareness](https://aclanthology.org/2026.emnlp-main.2409/) · EMNLP 2026
 - [Lang-SVG: Hierarchical Image Vectorization with Language Priors](https://arxiv.org/abs/2611.15941) · NeurIPS 2026 (accepted)
+- [Chart2SVG: Editable SVG Generation from Raster Chart Images](https://www.ieeevis.org/year/2026/program/content/4d0898fd-252b-43eb-b4bd-365101ffaa28/) · IEEE VIS 2026
+- [Text-Conditioned Background Generation for Editable Multi-Layer Documents](https://doi.org/10.1007/978-3-032-37255-0_7) · ECCV 2026
 
 [Browse all papers →](papers/2026.md)
 
@@ -111,7 +113,7 @@ Selected papers on graphic layout generation, poster design, document layouts, a
 - [Content-Aware Ad Banner Layout Generation with Two-Stage Chain-of-Thought in Vision Language Models](https://arxiv.org/abs/2512.12596) · arXiv 2025
 - [LLMs as Layout Designers: Enhanced Spatial Reasoning for Content-Aware Layout Generation](https://arxiv.org/abs/2509.16891) · arXiv 2025
 - [ReLayout: Integrating Relation Reasoning for Content-aware Layout Generation with Multi-modal Large Language Models](https://arxiv.org/abs/2507.05568) · arXiv 2025
-- [CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design](https://arxiv.org/abs/2506.21934) · arXiv 2025
+- [CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design](https://sigirgennext.github.io/GENNEXT-SIGIR-25/submissions/gennext_sigir25_5.pdf) · arXiv 2025 (presented at the SIGIR 2025 GENNEXT Workshop)
 - [LayoutRAG: Retrieval-Augmented Model for Content-agnostic Conditional Layout Generation](https://arxiv.org/abs/2506.02697) · arXiv 2025
 - [Aggregated Structural Representation with Large Language Models for Human-Centric Layout Generation](https://arxiv.org/abs/2505.19554) · arXiv 2025
 - [Generating Animated Layouts as Structured Text Representations](https://arxiv.org/abs/2505.00975) · CVPR 2025 Workshops (AI4CC)
@@ -140,13 +142,13 @@ Selected papers on graphic layout generation, poster design, document layouts, a
 - [Design Element Aware Poster Layout Generation](https://dl.acm.org/doi/abs/10.1145/3627673.3679557) · CIKM 2024
 - [CoLay: Controllable Layout Generation through Multi-conditional Latent Diffusion](https://arxiv.org/abs/2405.13045) · arXiv 2024
 - [LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation](https://arxiv.org/abs/2407.12356) · arXiv 2024
-- [LayoutDiT: Exploring Content-Graphic Balance in Layout Generation with Diffusion Transformer](https://arxiv.org/abs/2407.15233) · arXiv 2024
+- [LayoutDiT: Exploring Content-Graphic Balance in Layout Generation with Diffusion Transformer](https://doi.org/10.1109/TMM.2026.3724357) · 2024 preprint · IEEE Transactions on Multimedia 2026
 - [Graphic Design with Large Multimodal Model](https://ojs.aaai.org/index.php/AAAI/article/view/32249) · 2024 preprint · AAAI 2025
 - [Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models](https://aclanthology.org/2024.alvr-1.14/) · ALVR Workshop 2024
-- [VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction](https://arxiv.org/abs/2412.04237) · arXiv 2024
+- [VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction](https://shunk031.me/publication/zhang2025miru/) · arXiv 2024 (non-refereed poster at MIRU 2025)
 - [SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters](https://arxiv.org/abs/2407.19787) · BMVC 2024
 - [OpenCOLE: Towards Reproducible Automatic Graphic Design Generation](https://arxiv.org/abs/2406.08232) · CVPR 2024 Workshops
-- [PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM](https://arxiv.org/abs/2406.02884) · arXiv 2024
+- [PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM](https://doi.org/10.1109/TMM.2026.3753095) · 2024 preprint · IEEE Transactions on Multimedia 2026
 - [Leveraging Human Revisions for Improving Text-to-Layout Models](https://arxiv.org/abs/2405.13026) · arXiv 2024
 - [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/abs/2403.09622) · ECCV 2024
 - [Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering](https://arxiv.org/abs/2406.10208) · arXiv 2024

@@ -58,11 +58,12 @@
 
 ### Slide, Infographic and Structured Editing Benchmarks
 
+- Beagle+ (canonicalized chart SVGs for reconstruction and editing, Chart2SVG, IEEE VIS 2026) [[Paper](https://arxiv.org/abs/2608.26544)] [[Dataset](https://huggingface.co/datasets/syslocker/Beagle_Plus)] <br>
 - SlidesBench (AutoPresent, CVPR 2025) [[Paper](https://arxiv.org/abs/2501.00912)] [[Github / Data](https://github.com/para-lost/AutoPresent)] <br>
-- IGenBench (text-to-infographic reliability, 2026) [[Paper](https://arxiv.org/abs/2601.04498)] [[Project](https://igen-bench.vercel.app/)] <br>
+- IGenBench (text-to-infographic reliability, ACL 2026) [[Paper](https://arxiv.org/abs/2601.04498)] [[Project](https://igen-bench.vercel.app/)] <br>
 - PresentBench (2026) [[Paper](https://arxiv.org/abs/2603.07244)] [[Project](https://presentbench.github.io)] <br>
 - SlidesGen-Bench / Slides-Align1.5k (EMNLP 2026) [[Paper](https://arxiv.org/abs/2601.09487)] [[Github / Data](https://github.com/YunqiaoYang/SlidesGen-Bench)] <br>
-- DECKBench (2026) [[Paper](https://arxiv.org/abs/2602.13318)] [[Github / Data](https://github.com/morgan-heisler/DeckBench)] <br>
+- DECKBench (KDD 2026) [[Paper](https://arxiv.org/abs/2602.13318)] [[Github / Data](https://github.com/morgan-heisler/DeckBench)] <br>
 - CanvasBench (editable diagram creation, EvoDesign, NeurIPS 2026, accepted) [[Paper](https://arxiv.org/abs/2604.09568)] [[Github](https://github.com/GeminiLight/EvoDesign)] <br>
 - DrawAI-Bench (raster-to-editable reconstruction of figures, slides, posters and diagrams, 2026) [[Paper](https://arxiv.org/abs/2608.00548)] [[Project](https://drawai.renaissancemind.ai/)] [[Github](https://github.com/Renaissance-Mind/DrawAI)] [[Dataset (Lite)](https://huggingface.co/datasets/caopu/DrawAI-Bench-Lite)] <br>
 - VeriEdit-Bench (structured-asset editing, 2026) [[Paper](https://arxiv.org/abs/2610.04381)] [[Github / Data](https://github.com/flare200020/VeriEdit-Bench)] <br>
